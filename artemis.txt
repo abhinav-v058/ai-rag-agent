@@ -1,0 +1,2484 @@
+NASA
+National Aeronautics and Space Administration
+Office of Inspector General
+Office of Audits
+NASA’S MANAGEMENT OF
+THE ARTEMIS MISSIONS
+November 15, 2021
+Report No. IG-22-003
+Office of Inspector General
+To report, fraud, waste, abuse, or mismanagement, contact the NASA OIG Hotline at 800-424-9183 or 800-535-8134 (TDD) or
+visit https://oig.nasa.gov/hotline.html. You can also write to NASA Inspector General, P.O. Box 23089, L’Enfant Plaza Station,
+Washington, D.C. 20026. The identity of each writer and caller can be kept confidential, upon request, to the extent permitted
+by law.
+To suggest ideas or request future audits, contact the Assistant Inspector General for Audits at https://oig.nasa.gov/aboutAll.html.
+- - - - -
+RESULTS IN BRIEF
+NASA’s Management of the Artemis Missions
+November 15, 2021 IG 22 003 (A 20 008 01)
+NASA Office of Inspector General
+Office of Audits
+WHY WE PERFORMED THIS AUDIT
+The Artemis program seeks to return humans to the Moon by late 2024 rather than 2028 as initially planned. Faced with
+a shortened timeframe, an uncertain budget, and the nascency of the required development work, NASA implemented
+modifications to its routine procurement and program management practices in an attempt to accelerate the mission
+schedule and reduce costs. The Agency’s lunar strategy includes development of the Space Launch System (SLS) heavy-
+lift rocket, the Orion Multi-Purpose Crew Vehicle (Orion) capsule, a Human Landing System (HLS) to transport astronauts
+from lunar orbit to the Moon’s surface, the Gateway outpost orbiting the Moon, next-generation spacesuits, and
+delivery of science investigations and technology demonstrations to the lunar surface by commercial landers.
+Currently NASA’s most ambitious and costly activity, the Artemis program faces schedule, procurement, technical, and
+funding risks. This includes procurement of Artemis-related technologies and space flight hardware using research and
+development contracts that leverage commercial capabilities but require a Federal Acquisition Regulation (FAR)
+deviation for acquiring services and hardware. SLS and Orion have also experienced technical challenges in later
+development phases as well as the effects of COVID-19 restrictions and severe weather events. Additionally,
+the Gateway and HLS Programs received significantly less funding in fiscal year (FY) 2021 than required to meet NASA’s
+initial acquisition strategy.
+As the second in a series of audits examining NASA’s Artemis plans, this report assessed the Artemis program’s schedule
+and projected costs as well as how the Agency’s acquisition and programmatic approaches facilitate landing astronauts
+on the Moon. To complete this work, we reviewed documents, systems, policies, and procedures pertaining to
+schedule, cost, budget, operations, acquisition strategy, and program/project management requirements related to
+Artemis, its programs, and contactors. We also reviewed contracts, interviewed NASA and contractor officials, and
+conducted site visits at SpaceX headquarters in California and its Starbase facility in Texas.
+WHAT WE FOUND
+NASA’s three initial Artemis missions, designed to culminate in a crewed lunar landing, face varying degrees of technical
+difficulties and delays heightened by the COVID-19 pandemic and weather events that will push launch schedules from
+months to years past the Agency’s current goals. With Artemis I mission elements now being integrated and tested at
+Kennedy Space Center, we estimate NASA will be ready to launch by summer 2022 rather than November 2021 as
+planned. Although Artemis II is scheduled to launch in late 2023, we project that it will be delayed until at least
+mid-2024 due to the mission’s reuse of Orion components from Artemis I. While the Advanced Exploration Systems
+(AES) Division—which includes HLS, Gateway, and next-generation spacesuits—is working on an integrated master
+schedule (IMS) for Artemis III that incorporates Exploration Systems Development (ESD) Division programs—SLS, Orion,
+and Exploration Ground Systems—the draft version does not include information on programs critical to Artemis that
+are outside of AES and ESD. Given the time needed to develop and fully test the HLS and new spacesuits, we project
+NASA will exceed its current timetable for landing humans on the Moon in late 2024 by several years.
+In addition, NASA lacks a comprehensive and accurate cost estimate that accounts for all Artemis program costs. For
+FYs 2021 through 2025, the Agency uses a rough estimate for the first three missions that excludes $25 billion for key
+activities related to planned missions beyond Artemis III. When aggregating all relevant costs across mission directorates,
+NASA is projected to spend $93 billion on the Artemis effort up to FY 2025. We also project the current production and
+operations cost of a single SLS/Orion system at $4.1 billion per launch for Artemis I through IV, although the Agency’s
+ongoing initiatives aimed at increasing affordability seek to reduce that cost. Multiple factors contribute to the high cost
+of ESD programs, including the use of sole-source, cost-plus contracts; the inability to definitize key contract terms in a
+timely manner; and the fact that except for the Orion capsule, its subsystems, and the supporting launch facilities, all
+components are expendable and “single use” unlike emerging commercial space flight systems. Without capturing,
+accurately reporting, and reducing the cost of future SLS/Orion missions, the Agency will face significant challenges to
+sustaining its Artemis program in its current configuration.
+Further, for HLS, NASA has modified its traditional acquisition approach for large space flight programs to reduce costs,
+encourage innovation, and meet an aggressive schedule for its Artemis lunar landings. While its acquisition approach
+relies on competition to drive down costs and ensure redundancy, the Agency selected a single provider—SpaceX—
+after receiving $2.5 billion less than requested for HLS development in FY 2021. To help compensate, the Agency is
+accelerating its Lunar Exploration Transportation Services procurement for sustainable, regularly-recurring crewed
+lunar transportation services, and in September 2021 awarded five HLS contracts for the continued development of
+sustainable HLS capabilities as a prelude to the competitive services procurement. Over the past year, NASA has
+worked to solidify its HLS requirements and standards, established insight and collaboration teams, and plans to
+establish resident offices at SpaceX. However, under NASA’s tailored project management approach, HLS will use less
+standardized milestone reviews and instead utilize other techniques such as annual synchronization reviews throughout
+development and testing, but this approach runs the risk of technical changes later in development. Finally, instead of
+using a systems integrator or Artemis program manager, NASA is establishing various collaborative processes including
+new boards and a multi-directorate council to facilitate the communication and approval process. The effectiveness of
+this approach remains to be seen. While these modified approaches have the potential benefit of decreasing costs and
+encouraging innovation, they also raise the possibility of schedule and performance risks on NASA’s human-rated systems.
+WHAT WE RECOMMENDED
+To increase accuracy, transparency, and safety of human space flight, we recommended NASA’s Associate Administrator
+for Exploration Systems Development Mission Directorate: (1) develop a realistic, risk-informed schedule that includes
+sufficient margin to better align Agency expectations with the development schedule; (2) expand upon the existing draft
+Artemis IMS to include Artemis programs outside AES and ESD to properly align dependencies across directorates;
+(3) develop an Artemis-wide cost estimate and update it on an annual basis; (4) maintain an accounting of per-mission
+costs and establish a benchmark against which NASA can assess the outcome of initiatives to increase the affordability of
+ESD systems; (5) definitize outstanding Artemis-related contracts within 180 days in accordance with NASA FAR
+Supplement 1843.7005(a); (6) develop a realistic funding profile and schedule given the underfunding of HLS in FY 2021,
+selection of one HLS award, and desire to compete a sustainability contract for future lunar missions; and (7) identify
+measurable cost reduction targets for its ESD contractors. We also recommended NASA’s Chief Engineer in coordination
+with the HLS Program Manager: (8) validate annual synchronization reviews meet the intent and expectations of the
+milestone reviews replaced by the tailored acquisition approach, and the NASA Deputy Administrator in coordination
+with Mission Directorate Associate Administrators: (9) codify the remaining governance structure such as the Federated
+Boards and Joint Directorate Program Management Council.
+We provided a draft of this report to NASA management who concurred with
+Recommendations 1, 5, 6, 7, and 8, and described planned actions to address
+them. We consider the proposed actions responsive for these
+recommendations and will close them upon completion and verification. In
+addition, the Agency partially concurred with Recommendations 2 and 9 and
+non-concurred with Recommendations 3 and 4. These four recommendations
+For more information on the NASA
+Office of Inspector General and to
+view this and other reports visit
+https://oig.nasa.gov/.
+will remain unresolved pending further discussions with NASA.
+TABLE OF CONTENTS
+Introduction.................................................................................................................................................. 1
+Background ............................................................................................................................................... 2
+Artemis Program Making Progress But Timetable Slipping By Months for Test Flights and Years
+for Lunar Landing........................................................................................................................................12
+Artemis II Delayed Until at Least Mid-2024 Due to Artemis I Dependencies and Reuse of
+Time Needed for Development, Testing, and Certification of the HLS and Spacesuits Will Delay
+Artemis I Progressing Toward Launch by Summer 2022 ........................................................................12
+Orion Avionics .........................................................................................................................................13
+Planned Lunar Landing Schedule by Several Years .................................................................................14
+NASA’s Estimates Significantly Understate Costs of Artemis Program....................................................19
+NASA Lacks a Credible Cost Estimate for the Artemis Missions .............................................................19
+Total Artemis Costs Expected to Reach $93 Billion by 2025...................................................................21
+SLS/Orion Production and Operating Costs Will Average Over $4 Billion Per Launch ...........................23
+Ongoing Affordability Initiatives and Commercial Alternatives .............................................................25
+NASA’s Modified Acquisition and Management Approaches for HLS Will Reduce Costs and
+Encourage Innovation But Also Increase Risk ...........................................................................................28
+Modified Fixed-Price Contract Will Reduce Cost Growth and NASA’s Process to Mitigate
+Project Management Approach for the Human Landing System Modeled After Commercial
+NASA Managing Artemis Activities Using Newly Established Processes Rather Than a Systems
+Only One Company Selected for HLS Demonstration Mission Due to Reduced Funding ......................28
+Technical and Safety Risks Is Being Implemented ..................................................................................30
+Crew Program .........................................................................................................................................32
+Integrator or Program Manager .............................................................................................................33
+Conclusion ..................................................................................................................................................36
+Recommendations, Management’s Response, and Our Evaluation ........................................................37
+Appendix A: Scope and Methodology ......................................................................................................39
+Appendix B: HLS Program’s Tailored Project Management Approach....................................................42
+Appendix C: Artemis System Descriptions ...............................................................................................44
+Appendix D: Artemis Contracts.................................................................................................................57
+Appendix E: Management’s Comments ...................................................................................................61
+Appendix F: Report Distribution ...............................................................................................................67
+NASA Office of Inspector General IG-22-003 i
+Acronyms
+ABC Agency Baseline Commitment
+AES Advanced Exploration Systems
+CLPS Commercial Lunar Payload Services
+COVID-19 Coronavirus Disease 2019
+EGS Exploration Ground Systems
+ESA European Space Agency
+ESD Exploration Systems Development
+EVA Extravehicular Activity
+FAR Federal Acquisition Regulation
+FY fiscal year
+GAO Government Accountability Office
+HALO Habitation and Logistics Outpost
+HEOMD Human Exploration and Operations Mission Directorate
+HLS Human Landing System
+IMS integrated master schedule
+ISS International Space Station
+JCL Joint Cost and Schedule Confidence Level
+KDP Key Decision Point
+LETS Lunar Exploration Transportation Services
+NextSTEP Next Space Technologies for Exploration Partnerships
+NFS NASA FAR Supplement
+OIG Office of Inspector General
+PPE Power and Propulsion Element
+SE&I Systems Engineering and Integration
+SRA Schedule Risk Analysis
+SLS Space Launch System
+TRL Technology Readiness Level
+VIPER Volatiles Investigating Polar Exploration Rover
+xEMU Exploration Extravehicular Mobility Unit
+xEVA Exploration Extravehicular Activity
+NASA Office of Inspector General IG-22-003 ii
+INTRODUCTION
+In March 2019, NASA committed to landing humans on the Moon’s South Pole by 2024 instead of 2028
+as initially planned.1 Faced with a shortened timeframe, an uncertain budget, and the nascency of the
+required development work, NASA implemented modifications to its routine procurement and program
+management practices in an effort to reduce costs and accelerate the mission schedule. In addition to
+the Space Launch System (SLS) heavy-lift rocket, the Orion Multi-Purpose Crew Vehicle (Orion) capsule,
+and a Human Landing System (HLS), the Agency’s lunar strategy includes development of both the
+Gateway outpost orbiting the Moon and next-generation spacesuits capable of sustaining astronauts on
+the lunar surface, as well as multiple deliveries of science investigations and technology demonstrations
+to the Moon by commercial landers.
+This ambitious schedule is not without risk. NASA is procuring Artemis-related technologies and space
+flight hardware using a variety of methods, including research and development contracts that leverage
+commercial capabilities and state-of-the-art innovation, but require a Federal Acquisition Regulation
+(FAR) deviation. Additionally, and not unexpectedly, Orion and SLS have experienced technical
+challenges in later development phases, along with enduring the effects of Coronavirus Disease 2019
+(COVID-19) restrictions for over 18 months and numerous severe weather events. For example, during
+testing, Orion had an internal power and data unit that lost redundancy in November 2020, and the SLS
+required a second hot fire test of its Core Stage in March 2021 adding months to an already delayed
+schedule, making the planned November 2021 Artemis I launch date not feasible.
+2
+In addition to the procurement and technical risks, both the Gateway and HLS Programs received
+significantly less funding for fiscal year (FY) 2021 than initially required. Costs for the Artemis mission,
+spread among various NASA directorates and divisions, are expected to reach $93 billion by FY 2025.3
+Although the Biden Administration has indicated it will continue the Artemis program, the funding level
+is still being determined and the Administration’s commitment to the current goal of landing astronauts
+on the Moon in 2024 is in flux with a revised timetable expected in late 2021.
+This report is the second in a series of audits examining NASA’s Artemis plans. In this review, we
+assessed the Artemis program’s schedule and projected costs, as well as how the Agency’s acquisition
+and programmatic approaches seek to facilitate landing astronauts on the Moon. See Appendix A for
+details on the audit’s scope and methodology.
+1 In a recent report on NASA’s development of next-generation spacesuits, we concluded that delays in the Agency’s efforts
+will preclude a lunar landing in late 2024. NASA Office of Inspector General (OIG), NASA's Development of Next-Generation
+Spacesuits (IG-21-025, August 10, 2021).
+2 In October 2021, the Agency announced that the Artemis I launch would be delayed until February 2022 at the earliest.
+NASA officials said they plan to announce an official target launch date after several key tests are completed in the coming
+months. In November 2021, the NASA Administrator announced additional delays with Artemis II launching no later than
+May 2024 and Artemis III launching no earlier than 2025.
+3 The $93 billion figure was derived from examining NASA’s obligations, FY 2021 Budget Operating Plan, and budget
+projections for programs and projects involved in the Artemis program between FY 2012 and FY 2025.
+NASA Office of Inspector General IG-22-003 1
+Background
+Scheduled to launch in late 2021, Artemis I is planned as the first uncrewed flight of the integrated
+SLS/Orion system on a trajectory that will include a series of orbits around the Moon. The second
+mission and first crewed flight—Artemis II—will also orbit the Moon and prepare the way for Artemis III
+in late 2024. In this third mission, the Orion capsule will dock in lunar orbit directly to the HLS to
+transport astronauts to and from the lunar surface.4 Prior to the astronauts’ arrival, NASA intends to
+explore the lunar landing area with robotic systems as part of its Commercial Lunar Payload Services
+(CLPS) initiative.
+5 Subsequent Artemis missions will include a longer-term presence on the Moon that
+incorporates use of the Gateway in lunar orbit, ground infrastructure on the lunar surface such as a
+habitat, and surface transportation like a lunar rover. NASA’s plan to land astronauts on the Moon relies
+heavily on the maturity of a number of key systems, including the SLS/Orion and next-generation
+spacesuits. In addition, NASA will rely on the commercial sector to launch both the Gateway and HLS
+into Near Rectilinear Halo Orbit.6 Figure 1 shows the current schedule for the Artemis exploration
+missions and commercial launches in support of a lunar landing.
+4 NASA’s goal is to have the Gateway in an orbit around the Moon to support Artemis IV. The initial elements of the orbiting
+lunar platform will consist of the Power and Propulsion Element, which provides electrical power and propulsion to the
+Gateway, and the Habitation and Logistics Outpost, which provides working and living space for the astronauts while the
+Orion is docked to it.
+5 Initiated in 2018, NASA’s CLPS initiative is intended to allow rapid acquisition of lunar delivery services from American
+companies for payloads that advance science, exploration, and commercial development of the Moon.
+6 Near Rectilinear Halo Orbit is an orbit around the Moon with a 7-day cycle, which will take the Gateway, Orion, and HLS as
+close to the lunar surface as 1,600 kilometers (1,000 miles) and as far away as 68,260 kilometers (42,415 miles). Consequently,
+the lunar lander can efficiently depart the Gateway to travel to the lunar surface approximately every 7 days.
+NASA Office of Inspector General IG-22-003 2
+Figure 1: Calendar Year Timeline of NASA Artemis and Related Commercial Launches (as of September 2021)
+Source: NASA Office of Inspector General (OIG) depiction of Agency program information.
+Artemis Concept for Returning Astronauts to the Moon
+By the time Artemis III launches, NASA expects to have flown the SLS/Orion system twice with one
+uncrewed mission (Artemis I) and a second crewed mission (Artemis II) around the Moon with a
+functioning Environmental Control and Life Support System. During the Artemis II mission, Orion will
+remain in Earth’s orbit for several days to ensure the life support system is fully operational before
+proceeding to the orbit around the Moon. All three missions will send the spacecraft into a trans-lunar
+injection that places the Orion capsule and its service module in a trajectory toward the Moon.7 On
+Artemis III, the Orion spacecraft will then use the propulsion produced by its service module to travel
+to Near Rectilinear Halo Orbit around the Moon. NASA also plans to position the Gateway in this orbit
+to act as an outpost for staging Moon landings and future deep space or Mars departures.
+NASA considers Artemis III a demonstration mission that will illustrate the capability to land a crewed
+spacecraft on the Moon. NASA has contracted with Space Exploration Technologies Corp. (SpaceX) to
+develop an HLS vehicle to transport two astronauts to the Moon’s South Pole on this mission.
+Compared to the first two missions, the Artemis III mission profile is much more complicated in that it
+7 A trans-lunar injection is a propulsive maneuver used to set a spacecraft on a trajectory that will cause it to arrive at
+the Moon.
+NASA Office of Inspector General IG-22-003 3
+will require a number of launches of Tanker Starships and a fuel depot to provide propellent for the HLS
+and will also involve flying the SLS/Orion separately to link up the astronauts with the HLS in lunar orbit.
+Figure 2 presents a graphical summary of the Artemis III mission.
+Figure 2: Planned Artemis III Mission Profile (as of October 2021)
+Source: NASA OIG presentation of Agency data.
+NASA Office of Inspector General IG-22-003 4
+SpaceX will use a Super Heavy rocket booster
+currently in development to launch the HLS Starship
+from Kennedy Space Center (Kennedy) and SpaceX’s
+launch facility in Boca Chica, Texas, into the Earth’s
+orbit where it will dock with SpaceX’s depot
+spacecraft for refueling.8 From there, the Starship
+will use its internal propulsion to travel to Near
+Rectilinear Halo Orbit where it will position in lunar
+orbit to dock directly with the Orion capsule. NASA
+plans to separately launch and fly four astronauts in
+the Orion to dock directly with the pre-positioned
+HLS Starship. Two astronauts will board the HLS and
+descend to the Moon’s surface while the other
+astronauts remain on the Orion to provide support and communication for the landing team. While on
+the surface for up to a week, the astronauts will leave the spacecraft and conduct one or more lunar
+excursions. Upon completion, the HLS will launch from the Moon and return to the Orion in lunar orbit
+before Orion heads back to Earth with the four astronauts for a landing in the Pacific Ocean. Following
+this demonstration of the HLS, NASA intends to return crew to the lunar surface by using a FAR-based
+contract, Lunar Exploration Transportation Services (LETS), in which commercial companies will develop
+sustainable human landing systems and provide recurring crewed lunar landing services. Follow on
+missions will use additional capabilities including the Gateway and lunar rovers, with longer duration
+stays on the lunar surface. See Appendix B for information on HLS’s programmatic approach.
+NASA’s Organizational and Programmatic Structure for
+Integrating Space Flight Elements
+Artemis is not a formal program under NASA management standards despite spanning multiple mission
+directorates, divisions, and programs.9 Unlike the Apollo or Shuttle Programs that consolidated all
+efforts under a single programmatic organization, NASA decided to establish a more distributed method
+for integrating Artemis elements and capabilities. As part of this process, the Agency first designated
+lead directorates or divisions to integrate the missions. Overall, the Human Exploration and Operations
+Mission Directorate (HEOMD) is responsible for integrating the Artemis missions.10 For Artemis I and II,
+NASA’s Exploration Systems Development (ESD) Division, which includes the SLS, Orion, and Exploration
+8 Although not fully planned yet for Artemis flights, future missions are expected to launch from a floating launch pad in the
+Gulf of Mexico, which could add additional launch facilities and potentially ease safety and regulatory concerns with
+launching a massive rocket near populated areas.
+9 NASA Procedural Requirements 7120.5E, NASA Space Flight Program and Project Management Requirements (Updated
+w/Change 18) (August 14, 2012). A program is defined as a strategic investment by a Mission Directorate or Mission Support
+Office that has a defined architecture and/or technical approach, requirements, funding level, and management structure
+that initiates and directs one or more projects. A program implements a strategic direction that NASA has identified as
+needed to accomplish Agency goals and objectives.
+10 On September 21, 2021, the NASA Administrator announced that the Agency would be splitting HEOMD into two separate
+mission directorates. The Exploration Systems Development Mission Directorate is responsible for integrating the early
+Artemis missions, defining and managing systems development for programs critical to NASA’s Artemis program, and
+planning for NASA’s Moon to Mars exploration approach in an integrated manner. The other space flight mission
+directorate—Space Operations Mission Directorate—will focus on launch and space operations, including the International
+Space Station, commercialization of low Earth orbit, and eventually operations around the Moon. The implementation
+process for this organizational change will take several months. For purposes of this report, we refer to the organization
+using its pre-transition terminology.
+NASA Office of Inspector General IG-22-003 5
+Ground Systems (EGS) Programs, is the lead authority for integration. The Advanced Exploration
+Systems (AES) Division is responsible for NASA's return of humans to the Moon; associated lunar
+programs such as Gateway, HLS, Lunar Terrain Vehicle, and next-generation spacesuits; and overall
+mission integration starting with Artemis III. NASA’s Science and Space Technology Mission Directorates
+also contribute vital aspects to the Artemis missions such as technology demonstrations and robotic
+explorations of the Moon prior to astronaut landings. See Appendix C for a description of key Artemis
+systems such as the SLS and HLS and related science missions.
+In order to ensure strategic alignment across the Agency, in October 2019 the NASA Administrator
+announced the formation of a Federated Board for Artemis missions led by the deputy associate
+administrators of HEOMD and the Science and Space Technology Mission Directorates (see Figure 3).
+The Board was charged with cross-directorate coordination and implementation of Agency strategic
+guidance; out-year planning integration, including future architecture definition and planning; and
+long-term strategic assessments to inform NASA’s strategy. The Board meets weekly and focuses
+specifically on technical development and integration of a long-term lunar surface presence as well as
+the first human mission to Mars. Additionally, an “expanded” Federated Board was created that
+includes other NASA stakeholders, such as the Offices of General Counsel and International and
+Interagency Relations, and also meets weekly.
+NASA Office of Inspector General IG-22-003 6
+Figure 3: Artemis Program Organizational Structure and Integration (as of August 2021)
+Source: NASA OIG presentation of Agency information.
+In September 2020, HEOMD was reorganized to include a Systems Engineering and Integration (SE&I)
+function at the mission directorate level responsible for ensuring program and project requirements
+reflect HEOMD’s overall strategy, leading the formulation of mission plans, and providing technical
+direction for HEOMD activities. The SE&I function can also participate in several joint control boards
+that bring together HEOMD programs for the purpose of issue resolution. AES has a similar capability
+with its SE&I function to integrate all programs and projects operating as part of the lunar landing
+missions starting with Artemis III. AES was designated the lead office to oversee different phases of
+mission operations—known as “integration spheres”—and has delegated technical work and integration
+to designated programs: from launch, to lunar orbit, to the lunar surface, and everything in between.
+AES maintains overall accountability and integration responsibility over Artemis missions beginning with
+Artemis III and has insight over these processes via joint control boards, integration panels, and working
+groups. By also involving ESD, these boards help define requirements and evaluate risks across all major
+Artemis programs within HEOMD.
+NASA Office of Inspector General IG-22-003 7
+Artemis Acquisition Strategy
+For Artemis, NASA is using a variety of acquisition strategies for the design, development, and purchase
+of space flight systems or services, with most approaches utilizing FAR-based contracts.
+11 However,
+the Agency used Space Act Agreements for more recent space flight developments, including cargo
+transportation services to the International Space Station (ISS) and the early stages of the Commercial
+Crew Program.
+12 Upon completion of these developments, NASA did not own the space flight systems
+but rather purchased transportation services under a FAR contract. For the HLS demonstration contract
+with SpaceX, NASA is relying on a research and development section of the FAR—FAR Part 35 Broad
+Agency Announcements—rather than Space Act Agreements, as the contracting method for
+development. For the transportation services phase of HLS, NASA will use a FAR-based approach to
+purchase recurring transportation services. While a similar type of FAR Part 35 contracting is being used
+for the Gateway, the Agency will take delivery and ownership of the first Gateway elements prior to
+their launch on a SpaceX Falcon Heavy rocket.13
+The FAR outlines contract vehicles to acquire goods and services, such as cost-reimbursement and
+fixed-price contracts. In cost-reimbursement contracts, the Agency agrees to pay all allowable costs
+the contractor incurs in delivering the service or product. Such contracts are often used in space flight
+development projects when the government does not fully know the requirements of the project,
+changes are likely, and estimated costs are difficult to identify. All three ESD Programs—SLS, Orion,
+and EGS—have used these types of contracts along with a periodic award fee based upon contractor
+performance, and in some cases an incentive fee for cost reductions and meeting milestones on time
+or ahead of schedule. For each of these programs, we previously reported on significant cost growth,
+schedule slips, and performance issues, and additionally for SLS and Orion the inappropriate use of
+award fees during periods of poor contractor performance.14 While NASA owns both the SLS and Orion
+space flight systems, having a different contractor other than the one who developed the systems take
+over production would have been extremely costly, and as a result both incumbents—The Boeing
+Company (Boeing) and Lockheed Martin Corporation (Lockheed Martin)—received follow-on contracts
+for production of additional SLS and Orion vehicles, respectively (Appendix D provides a summary of SLS,
+Orion, and other ongoing contracts critical to the Artemis mission).
+In fixed-price contracts, the contractor agrees to deliver a product or service at an agreed-upon price
+with profit built-in to the price. NASA generally uses fixed-price contracts when it can clearly define
+costs and risks, like in the later phases of Commercial Crew Transportation Services. For both the HLS
+and Gateway’s Power and Propulsion Element (PPE) and Habitation and Logistics Outpost (HALO)
+11 Although NASA is leading the Artemis program, it will still rely on international partnerships to establish a sustainable
+presence on the Moon. As of June 2021, 12 nations have signed the Artemis Accords, a framework that establishes a shared
+vision for space exploration and commercial activity.
+12 Not covered by the FAR, Space Act Agreements provide NASA with the ability to advance science and technology and
+stimulate industry to start new endeavors. See National Aeronautics and Space Administration Authorization Act of 2010,
+Pub. L. No. 111-267, 124 Stat. 2805 (2010).
+13 For acquisition of Gateway’s two initial elements, NASA chose a fixed-price contract using FAR Part 35, Research and
+Development Contracting (2019) and NASA Federal Acquisition Regulation Supplement (NFS) 1835.016, Research and
+Development Contracting—Broad Agency Announcements (March 2020) relating to research and development contracting
+and the use of Broad Agency Announcements to leverage commercial capabilities. These announcements are used to
+acquire basic and applied research in addition to Announcements of Opportunity using NFS 1872, Acquisition of Flight
+Investigations (March 2020).
+14 NASA OIG, NASA’s Management of Space Launch System Program Costs and Contracts (IG-20-012, March 10, 2020)
+and NASA’s Management of the Orion Multi-Purpose Crew Vehicle Program (IG-20-018, July 16, 2020).
+NASA Office of Inspector General IG-22-003 8
+systems, NASA utilized firm-fixed-price Broad Agency Announcements to solicit for commercial
+companies to develop space capabilities for use beyond low Earth orbit.15 NASA chose these fixed-price
+research and development contracts to enable public-private partnerships in which the companies take
+on a significant portion of development costs.
+16 However, the NASA Assistant Administrator for
+Procurement granted a deviation to the “research only” clause in the FAR to gain the efficiencies of a
+commercial partnership that included cost-sharing and allowed the eventual purchase of the PPE, HALO,
+and the first demonstration mission for the HLS.
+HLS Procurement Plans
+In October 2019, NASA solicited proposals from industry to facilitate the rapid development and
+demonstration of an HLS to deliver a crew to the Moon by 2024. Five companies submitted proposals
+and NASA ultimately selected and provided initial funding to three—Blue Origin Federation, LLC (Blue
+Origin) for $479.7 million; Dynetics, Inc. (Dynetics) for $239.7 million; and SpaceX for $139.6 million—
+using firm-fixed-price research and development contracts under FAR Part 35. NASA identified several
+required milestone reviews, including a Certification Baseline Review and Continuation Review, which
+the contractors needed to include in their proposals, but otherwise the Agency gave the contractors the
+flexibility to include their own milestones and associated payments as part of their submissions.17
+Following this base period award, NASA intended to foster a competitive environment to drive cost
+savings and enhance capabilities through the subsequent award of two development contracts for the
+Artemis program’s initial lunar landings: one to a contractor to build a spacecraft to conduct the first
+Moon landing in 2024 and the second to a contractor to demonstrate its lander in 2026.
+HEOMD and HLS officials have repeatedly noted that having multiple contractors would encourage
+innovation and drive down costs through competition. However, in FY 2021 NASA received $850 million
+in HLS funding from Congress, substantially less than the $3.4 billion it requested. Due in part to this
+reduction, in April 2021 NASA awarded a single company—SpaceX—a firm-fixed-price contract for a
+potential total value of $2.9 billion to further develop and demonstrate its HLS by ferrying astronauts
+between a lunar orbit and the lunar surface on the Artemis III mission.18
+15 Gateway’s initial elements consist of the PPE, which powers and propels the spacecraft in orbit, and the HALO, which
+provides a docking location for the Orion capsule and living and working spaces for crewmembers staying less than 30 days.
+NASA instituted the Next Space Technologies for Exploration Partnerships-2 (NextSTEP-2) for commercial companies to
+develop space capabilities for use beyond low Earth orbit. NextSTEP is a partnership model between NASA and the private
+sector that seeks commercial development of deep space exploration capabilities to support more extensive human space
+flight missions in and beyond cislunar space, the space near Earth that extends just beyond the Moon. There have been two
+NextSTEP announcements, one in 2014 and the other in 2016. The first NextSTEP sought proposals from U.S. industry for
+concept studies and technology development for advanced propulsion, habitation, and small satellites. NextSTEP-2 included
+all U.S. and non-U.S. institutions and covered areas such as prototypes for habitation systems, power and propulsion system
+studies, and HLS studies and demonstrations.
+16 FAR Part 35, NFS 1835.016.
+17 During the Certification Baseline Review milestone, NASA examined the progress of each contractor toward the design of
+their HLS and established design, construction, safety, health, and medical standards for each system. The Continuation
+Review allowed the companies to provide additional details to NASA on their respective designs, mission plans, hardware,
+and software.
+18 Blue Origin and Dynetics protested the SpaceX award to the Government Accountability Office (GAO), and both protests
+were denied in July 2021. Shortly thereafter, Blue Origin, in effect, appealed this decision by filing a bid protest lawsuit
+with the U.S. Court of Federal Claims, which caused NASA and SpaceX to halt work on SpaceX’s HLS demonstration contract.
+In November 2021, this protest was also denied.
+NASA Office of Inspector General IG-22-003 9
+In awarding SpaceX the demonstration contract, NASA noted that SpaceX’s HLS spacecraft still had
+technology that needed to be matured, measured by what is known as a Technology Readiness Level
+(TRL).19 Specifically, SpaceX’s design needed to mature a complex propulsion system and an
+unprecedented propellant transfer system within the Earth’s orbit. To support a successful
+demonstration, SpaceX will need to test fly its HLS prototype, develop and fly its Super Heavy rocket
+booster for its launch vehicle, practice refueling operations in low Earth orbit, and demonstrate an
+uncrewed HLS mission. As of August 2021, SpaceX has flown several test flights of its upper stage
+Starship prototype—the basis for what will become the HLS—and currently plans to test fly its Super
+Heavy rocket booster in late 2021.
+To meet a 2024 launch date, NASA and SpaceX will
+need to navigate a number of programmatic
+milestones to ensure the HLS is meeting Agency
+requirements as critical technology continues to
+mature (see Figure 4).20 Specifically, NASA is
+planning its HLS Key Decision Point (KDP) C—the
+milestone that allows the program to move from
+early design work to final design and fabrication—
+for 8 months after the contract receives a NASA
+directed Authority to Proceed and SpaceX data
+becomes available to NASA. Following that, NASA's
+Standing Review Board will participate in contractor
+led reviews as well as all of NASA’s KDPs. For its
+part, SpaceX needs to complete a series of tests
+demonstrating different aspects of its HLS
+operations, as well as serve as the lead for a Critical
+Design Review and Design Certification Review—
+reviews needed to ensure the HLS can enter into
+final fabrication, assembly, integration, and testing.
+NASA’s Standing Review Board will participate in
+each of those contractor-led reviews.
+19 NASA categorizes space technologies into TRLs 1 through 9. At TRL 1, scientific research is in the early stage compared to
+TRL 9 when the technology has been proven on a successful flight. NASA and GAO guidelines state that critical technologies
+should be at least at a TRL 6—at a model or prototype demonstration in a relevant environment—at the time a project
+completes its Preliminary Design Review (a checkpoint in the design life cycle before hardware manufacturing can begin).
+TRL levels for the Artemis-related space flight systems can be found in Appendix C.
+20 The milestone reviews include completing Key Decision Point (KDP) C in July 2022, which will move the program from
+Formulation to Implementation; a Critical Design Review in the third quarter of FY 2023; and annual synchronization reviews
+thereafter.
+NASA Office of Inspector General IG-22-003 10
+Figure 4: HLS Milestone Schedule (as of August 2021) and SpaceX HLS Schedule
+(as of December 2020)
+Source: NASA OIG presentation of Agency data.
+Note: SpaceX schedule information does not reflect impacts from the bid protests and stay of performance.
+Since NASA had only enough funds to award a single HLS initial demonstration contract, it has
+accelerated its LETS acquisition and created additional opportunities for industry to receive research and
+development funding from NASA for lunar landers. On September 14, 2021, NASA announced
+firm-fixed-price awards with a total potential value of $146 million to Blue Origin, Dynetics, Lockheed
+Martin, Northrop Grumman, and SpaceX for research and development services that are unique to each
+provider’s HLS designs. These awards are intended to help prepare industry to be competitive for an
+award under the LETS procurement.
+NASA Office of Inspector General IG-22-003 11
+ARTEMIS PROGRAM MAKING PROGRESS BUT
+TIMETABLE SLIPPING BY MONTHS FOR TEST
+FLIGHTS AND YEARS FOR LUNAR LANDING
+NASA’s initial three Artemis missions—which are expected to culminate in a crewed lunar landing—face
+varying degrees of technical difficulties and delays that will push launch schedules from months to years
+past their current goals. With all necessary elements for the Artemis I mission now being integrated and
+tested at Kennedy, we estimate that NASA is progressing toward a launch by summer 2022 (a projected
+slip of about 6 months attributable to technical challenges, the COVID-19 pandemic, and multiple
+weather events—compared to the target date of November 2021). With Artemis II currently scheduled
+to launch in late 2023, NASA is facing longer schedule delays—until at least mid-2024—due to the
+second mission’s reuse of Orion components from Artemis I. Finally, given the time needed to develop
+and fully test the HLS and NASA’s next-generation spacesuits, the Agency will exceed its current
+timetable of landing humans on the Moon in late 2024 by several years.
+Artemis I Progressing Toward Launch by Summer 2022
+Four years after the presidential directive that initiated what would become the Artemis program,
+but more than 10 years into development of its SLS rocket and Orion capsule, NASA’s preparations are
+nearly complete for its inaugural flight of its rocket/capsule combination. The Orion Crew Module was
+delivered to Kennedy in January 2021, and following completion of its Green Run tests the SLS Core
+Stage was delivered to Kennedy in late April 2021.21 Since then, the EGS Program has been assembling
+the SLS/Orion configuration and testing the integrated system for the first time. Despite missing
+Artemis I’s revised Agency Baseline Commitment (ABC) launch date of November 2021, ESD officials
+are confident the integration and launch will be completed in spring 2022, with a higher probability of
+launch—in our estimation—by summer 2022.
+22
+The need for a second hot fire test of the SLS Core Stage rocket, along with the impacts of several
+hurricanes, delayed necessary pre-launch ground operations which were estimated to take
+10 months to complete following receipt of the Core Stage at Kennedy.
+23 NASA’s first hot fire test on
+January 16, 2021, was shut down after just 1 minute—far short of the 8-minute objective—due to
+conservative testing parameters intended to reduce the risk of damaging the Core Stage during the test.
+Prior to the second attempt of the hot fire test, scheduled for February 25, 2021, engineers were forced
+21 The Green Run is a series of eight tests on the SLS’s Core Stage flight hardware, culminating with a hot fire test. These tests
+verify the stage is ready for the first and future Artemis missions.
+22 An ABC establishes and documents an integrated set of project requirements, cost, schedule, technical content, and an
+agreed Joint Cost and Schedule Confidence Level that forms the basis for NASA’s commitment to the Office of Management
+and Budget and Congress. The original 2014 SLS ABC established a goal to launch in December 2017 and a commitment to
+launch by November 2018. The SLS and EGS Programs were rebaselined in early 2020 to a November 2021 Artemis I ABC
+launch date. This assessment did not include COVID-19 impacts, as it occurred prior to the onset of the pandemic.
+23 The 10 months accounts for integration activities, technical risks, and uncertainties.
+NASA Office of Inspector General IG-22-003 12
+to repair a valve in the Core Stage main propulsion system, resulting in further delays. Finally, on
+March 18, 2021, the hot fire test was completed with the Core Stage firing its engines for over
+8 minutes. Following a planned month of engine refurbishment and travel by barge from Stennis Space
+Center, the Core Stage arrived at Kennedy on April 27, 2021, nearly 3 months after the intended date.
+As a result of these delays, the COVID-19 pandemic, multiple weather events, and the 10 months
+required for integration and testing, Artemis I will not be ready to launch until at least late
+February 2022, 3 months after its ABC launch readiness date. EGS Program schedules and a June 2021
+HEOMD Schedule Risk Analysis (SRA) cite a risk-informed launch readiness date of mid-April 2022.24
+In our judgment, the Agency is on track to launch Artemis I by summer 2022. While first-time
+integration issues may cause additional delays, NASA currently reports no remaining major issues.
+Specifically, flight and ground software are at a mature state and require only minor modifications, the
+Core Stage passed its hot fire test, and an issue with a redundant component in one of Orion’s six power
+and data units was waived for Artemis I.25
+Artemis II Delayed Until at Least Mid-2024 Due to
+Artemis I Dependencies and Reuse of Orion Avionics
+Artemis II is currently scheduled to launch in late 2023, though NASA is likely to face schedule delays due
+to the reuse and installation of Orion components following Artemis I and a tight delivery schedule of
+the Orion service module. After the Orion capsule is recovered from the Pacific Ocean at the conclusion
+of the Artemis I mission, ESD personnel plan to refurbish and reuse several of its non-core avionics
+systems in the Artemis II Orion.26 This avionics reuse, which is driven entirely by when the Orion capsule
+returns from its first mission, is considered the primary critical path for Artemis II.27 Another key
+Artemis II component requiring integration is the service module. Built by Airbus in Bremen, Germany,
+for the European Space Agency (ESA), the Artemis II Service Module was delivered to Kennedy for
+integration with the Orion Crew Module in October 2021, a date that had already slipped by several
+months due to impacts from the COVID-19 pandemic and numerous technical issues. Orion Program
+officials were tracking delivery of the Service Module as a top program risk for Artemis II.
+In preparation for the crewed Artemis II launch, NASA will also install an Environmental Control and Life
+Support System on the capsule. The Agency opted not to fly Artemis I with an operational life support
+system citing cost savings and lack of crew on the flight. However, as we previously reported, in
+contradiction to the “test like you fly” qualification approach, Artemis II—with astronauts on board—will
+24 An SRA analyzes the potential impact of schedule uncertainties and risks to determine the likelihood that a program plan
+is achievable. The SRA can inform program management of priority schedule risks and adequacy of schedule margins.
+25 In November 2020, engineers identified an issue with a redundant component on one of Orion’s power and data unit
+communications cards. Given the limited accessibility to this unit, NASA determined that disassembling the Crew Module
+Adapter to address the faulty component would put the spacecraft at higher risk of damage than not addressing the issue.
+NASA elected to accept the risk and proceeded into integration without replacing the component.
+26 Avionics refers to the spacecraft’s electronics systems and includes its communications, navigations, display, and flight
+control systems.
+27 The critical path refers to the sequential path of tasks in a schedule that represents the longest overall duration from the
+present time through project completion. Any slippage of these tasks will increase the project’s duration.
+NASA Office of Inspector General IG-22-003 13
+be the first flight using this system, a situation that presents an operational and safety risk.
+28 The
+Program plans to mitigate the risk by remaining in the Earth’s orbit for the mission’s first 2 days to
+ensure a fuller assessment of the life support system’s performance before continuing on to the Moon.
+Other modifications between the first two flights include upgrades to the Mobile Launcher 1 including
+an Emergency Egress System for astronauts and an Environmental Control System.
+29 While not all
+upgrades will occur between the Artemis I and II launches, those planned are estimated to take about
+5 months.
+Between the reuse of avionics, installation of vital components, integration and testing, modifications
+and upgrades to launch facilities, and other ground operations, Artemis II preparations following
+completion of the Artemis I mission will take approximately 27 months. Reusing some components
+between the first two launches mean that Orion’s readiness issues after Artemis I—if they are realized—
+could delay the Artemis II launch until mid-2024—several months later than NASA’s current plans.30
+NASA has attempted to mitigate Artemis II’s schedule risk by initiating the purchase of an additional set
+of avionics should the Artemis I launch schedule continue to slip, thereby decoupling the Artemis II
+launch schedule from Artemis I.
+Time Needed for Development, Testing, and
+Certification of the HLS and Spacesuits Will Delay
+Planned Lunar Landing Schedule by Several Years
+HLS Development Schedule Is Unrealistic and Not Supported
+by Recent Schedule Risk Analysis
+We found the HLS development schedule to be unrealistic when compared to other major NASA space
+flight programs. Specifically, space flight programs in the last 15 years have taken on average about
+8.5 years from contract award to first operational flight and the HLS Program is attempting to do so in
+about half that time (see Figure 5).
+31
+28 The “test like you fly” approach tests the spacecraft utilizing the same hardware, software, people, and processes that will
+be utilized during mission operations. We discussed this risk in our 2017 report, NASA’s Plans for Human Exploration Beyond
+Low Earth Orbit (IG-17-017, April 13, 2017).
+29 The mobile launcher is the ground structure that will be used to assemble, process, and launch the combined SLS/Orion
+spacecraft from Launch Pad 39B at Kennedy.
+30 Since there is no component reuse between Artemis II and III, ESD will only require 6 to 12 months to complete ground
+operations between those launches.
+31 For reference, the Apollo Lunar Lander took approximately 6 years from contract award to its launch on the Apollo 11
+mission (the first landing of humans on the Moon). That said, Apollo lander development received substantially higher levels
+of funding controlled for inflation.
+NASA Office of Inspector General IG-22-003 14
+Figure 5: Time to Operational Flight for Recent NASA Space Flight Programs
+Source: NASA OIG presentation of Agency data.
+Further, while recent space flight programs have on average taken about 2 years between test and
+operational flights, SpaceX plans to launch its crewed HLS 1.2 years after its uncrewed demonstration
+mission. To their credit, the company’s rapid “design-build-fly” testing approach and in-house
+production facilities are unique capabilities that may allow for faster development and production
+timelines than previous NASA space flight programs.
+32 During our August 2021 visit to both its California
+and Texas facilities, we observed SpaceX’s rapid production ability with 20 Starship prototypes and
+100 Raptor engines built to date. This fast pace is possible due in part to the fact that SpaceX
+manufactures many engine parts and components in-house, which also reduces costs. The launch tower
+at the company’s Starbase in Texas was nearing completion with fueling facilities expected to be
+completed by October 2021. For its next major tests, SpaceX intends to launch the Super Heavy rocket
+booster and HLS into the Earth’s orbit by the end of 2021 with a demonstration of its in-orbit fueling
+operations planned for late 2022. Nonetheless, delays in its current timetable are likely given the
+technologies that must be developed and the tight schedule.
+A February 2020 HEOMD-directed SRA prepared by the Aerospace Corporation found an HLS would
+likely not be ready until mid-2026.33 Subsequent to that SRA, the HLS Program encountered a series of
+delays, including 6 weeks in awarding the development and demonstration contract in April 2021 and a
+nearly 4-month delay caused by the bid protests from Blue Origin and Dynetics over NASA’s award to
+SpaceX. Combined, these events contributed to 6 months in program delays and do not factor into
+ongoing delays due to Blue Origin’s late August 2021 lawsuit in the U.S. Court of Federal Claims. Based
+on the HLS base period contract award date (May 2020) and the average delay for recent major NASA
+space flight programs, we estimate the HLS Program could face up to 3.4 years of delays before
+32 SpaceX’s philosophy involves extensively testing and flying their vehicles as early as possible—made possible by rapid
+in-house manufacturing capabilities that provide a steady stream of hardware—to aggressively reduce risks and acquire
+flight data.
+33 As a part of the Continuation Review in December 2020, SpaceX also conducted an SRA that projected a 2024 landing was
+possible. SpaceX officials told us this projection will need to be refined once the Blue Origin litigation is concluded and data
+exchanges can begin again.
+NASA Office of Inspector General IG-22-003 15
+operational flights begin (see Figure 6). As a contingency plan, ESD officials raised the possibility of using
+Artemis III to complete an additional fly-by of the Moon rather than a lunar landing mission should
+necessary systems not be available in time.
+Figure 6: Historical Delays in Operational Space Flights
+Source: NASA OIG presentation of Agency data.
+Note: Operational flights for Boeing Crew and SLS are estimates based on Agency statements.
+Spacesuits Encountering Continuous Delays
+Prior to 2019, NASA planned to design, test, develop, and provide next-generation Exploration
+Extravehicular Mobility Unit (xEMU) spacesuits to the ISS by 2023 and to the Artemis III mission by 2028.
+However, when the timeline for Artemis III was accelerated, NASA was required to fast-track its
+schedule by 4 years. Since then, delivery of the spacesuits necessary for lunar expeditions have been
+delayed due to technical challenges, funding shortfalls, and COVID-19 impacts. AES schedules indicate
+that the projected delivery date for the ISS demonstration and Artemis III spacesuits is December 2024.
+Given the subsequent integration requirements, the suits will not be ready for flight until May 2025 at
+the earliest, making the suits and associated hardware unavailable for a planned 2024 lunar landing.
+In August 2021, we reported that given the projected delays and lack of contingency plans, the current
+pace of spacesuit development will preclude a 2024 crewed lunar landing.34 We also projected that by
+the time two flight-ready spacesuits are completed, NASA will have spent over a billion dollars on the
+development and assembly of its next-generation spacesuits, along with development of associated
+Extravehicular Activity (EVA) tools and equipment and upgrade of aging EVA facilities and infrastructure.
+Going forward, NASA officials told us that they plan to reduce technical risks for a future services
+34 IG-21-025.
+NASA Office of Inspector General IG-22-003 16
+contract by using an online Technical Library for spacesuit components and assemblies accessible by
+potential contractors, and through planned on-orbit testing of spacesuit components to increase their
+technical maturity. While this will be helpful for companies competing for and receiving a spacesuit
+contract, even with these modifications in approach, we determined the new spacesuits will still not be
+ready by 2024.
+Gateway Experiencing Technical Development and Funding
+Issues
+Though not required to support the Artemis III lunar landing, NASA is moving forward with development
+of the Gateway for sustained lunar operations. However, the Gateway Program continues to work with
+technical and schedule risks associated with its Advanced Electric Propulsion System—a solar electric
+system that will be used to propel the PPE.
+35 The PPE is expected to be three times more powerful and
+require less propellant than current satellite platforms and is responsible for transporting itself and the
+HALO to Near Rectilinear Halo Orbit. Illustrating the severity of the risk, hardware delivery for the
+Advanced Electric Propulsion System is not only considered the top risk to the Gateway Program, but to
+the AES Division as well.
+In announcing the contract award to SpaceX to launch a co-manifested PPE and HALO on a single rocket,
+NASA signaled a no-earlier-than launch date of May 2024. With a 10-month travel time to Near
+Rectilinear Halo Orbit, the earliest the Gateway could arrive in the designated orbit is March 2025, as we
+projected in our 2020 report.36 A March 2025 arrival would render the Gateway unavailable to serve as
+communications support for a 2024 lunar landing. In addition, program schedules indicate further
+Gateway launch delays until November 2024—with zero schedule margin—which would result in an
+initial operating capability for the Gateway of September 2025. However, a Gateway Program SRA
+indicated a less than 1 percent chance of meeting this replanned launch date, with a late 2025 or early
+2026 date more likely.
+Funding instability has forced various mission changes and delays within the Program, which ultimately
+impact the overall cost and schedule. Early estimates for the Gateway Program required $3.7 billion
+over 5 years in order to deploy a configuration of Gateway in lunar orbit by 2024. However, the FY 2021
+President's Budget Request for Gateway was $2.7 billion and reflected the elimination of the U.S.
+Habitation Module, which would have provided additional living and working space on the Gateway;
+a delayed Authority to Proceed for the Gateway Logistics Services contract; a schedule slip into at least
+2025 for PPE and HALO initial operating capability in Near Rectilinear Halo Orbit; and a strong reliance
+on international partners for full system capability.
+37 Between FY 2021 appropriations and the FY 2022
+President's Budget Request, though, Gateway funding projections are now back to $3.7 billion.
+38
+35 NASA OIG, NASA’s Management of the Gateway Program for Artemis Missions (IG-21-004, November 10, 2020).
+36 IG-21-004.
+37 NASA plans to procure logistics services—for delivery of cargo, science experiments, and supplies—for the Gateway that will
+be provided under the Gateway Logistics Services contract.
+38 In 2020, the Gateway Program projected a funding estimate of approximately $892 million for FY 2021; however, the
+Program only received $699 million, or 22 percent less than estimated.
+NASA Office of Inspector General IG-22-003 17
+NASA Developing Artemis Mission Schedules
+Though individual NASA divisions have their own integrated master schedules (IMS), the AES Division is
+working to create mission specific IMSs that will incorporate schedule information from both AES and
+ESD programs, starting with Artemis III. The IMSs will serve as a bottoms-up schedule that incorporates
+program inputs from both summary and detailed schedules. Programs will also identify and report on
+key performance milestones each quarter, with the corresponding data being leveraged for additional
+schedule analyses like SRAs. AES is currently identifying cross-program interdependencies with ESD
+programs to ensure that the schedules—starting with Artemis III—properly reflect linkages between
+divisions. Completion of the Artemis III IMS is reliant upon successful contract awards and Authorities to
+Proceed, particularly with the HLS Program and Exploration Extravehicular Activity (xEVA) Project.
+While the AES-ESD schedule covers the main Artemis activities, we found the draft version is missing
+information from programs and projects outside of the mission critical path. As we note in Table 2
+(see page 22), several NASA organizations outside of AES and ESD (e.g., Lunar Discovery Exploration
+Program, Space Technology Mission Directorate, Mission Support Directorate) are important to the
+overall Artemis mission and have the potential to affect mission success. Both the Government
+Accountability Office’s (GAO) and NASA’s scheduling best practices dictate that a comprehensive IMS
+should identify and sequence all program activities so interdependencies can be captured.39 Further,
+HEOMD’s 2020 Program Status Assessment recommended a “single, authoritative risk informed master
+schedule” for the Artemis program.40 While we recognize that the Artemis program is not a formalized
+program according to NASA policy—and is thus not subject to specific procedural requirements related
+to such programs—a regularly updated, NASA-wide IMS would provide more complete and timelier
+schedule insight for the entire Artemis mission, rather than just programs within AES and ESD.
+39 GAO, Schedule Assessment Guide: Best Practices for Project Schedules (GAO-16-89G, December 2015) and NASA/SP-2010-
+3403, Revision 1, NASA Schedule Management Handbook (January 30, 2020).
+40 Comprised of NASA personnel and outside aerospace experts, the Program Status Assessment examined planned activities to
+achieve a human lunar landing by 2024, reviewing early Artemis architecture, management and integration across programs,
+schedule risks, technical risks, technical systems engineering integration, and test program thoroughness.
+NASA Office of Inspector General IG-22-003 18
+NASA’S ESTIMATES SIGNIFICANTLY UNDERSTATE
+COSTS OF ARTEMIS PROGRAM
+NASA lacks a comprehensive and accurate cost estimate that accounts for all Artemis program costs.
+Instead, the Agency’s Artemis Plan presents a rough estimate of the costs for the first three missions
+between FYs 2021 and 2025 that excludes $25 billion for key activities related to planned missions
+beyond Artemis III. When aggregating all relevant costs across mission directorates, we found that
+NASA is projected to spend $93 billion on the Artemis effort from FY 2012 through FY 2025.41 Moreover,
+while NASA has several initiatives underway aimed at increasing affordability, we project the current
+production cost of a single SLS/Orion system to be $4.1 billion per launch. Looking ahead, without
+capturing, accurately reporting, and reducing the cost of future SLS/Orion missions, the Agency will face
+significant challenges to sustaining its Artemis program in its current configuration.
+NASA Lacks a Credible Cost Estimate for the Artemis
+Missions
+NASA does not have a credible estimate that consolidates all Artemis costs across mission directorates.
+As a result of NASA’s decision not to classify Artemis as a formal program under the Agency’s Space
+Flight Program and Project Management Requirements, program officials were not required to develop
+an Artemis-wide full life-cycle cost estimate. Instead, NASA’s disparate programs and projects
+individually submit budget estimates through their directorates and divisions to the Office of the Chief
+Financial Officer.
+42 However, the Agency does not consolidate cost estimates into an overall Artemis
+projection. Currently, the only publicly available Artemis cost projections are in NASA’s Lunar
+Exploration Program Overview—"the Artemis Plan”—released in September 2020 (see Table 1).
+41 In April 2021, NASA OIG released the Artemis Status Update (IG-21-018), which cites total Artemis-related costs of $86 billion
+from FY 2012 through FY 2025. The $93 billion estimate cited in this report updates that previous estimate by including
+Artemis costs from outside of HEOMD and using the FY 2021 Budget Operating Plan for FY 2021 costs (rather than FY 2021
+appropriations) and the FY 2022 President's Budget Request. Additionally, our cost projections begin in FY 2012 because that
+is the year the SLS and Orion Programs began Artemis-related work in earnest.
+42 The Office of the Chief Financial Officer is responsible for the official listing of Agency-approved programs and projects and
+tracking performance against individual Agency-approved project cost and schedule commitments.
+NASA Office of Inspector General IG-22-003 19
+Table 1: Artemis Phase 1 Funding Requirements (Dollars in Millions)
+Artemis Elements FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 Total
+Orion/SLS/EGS
+Initial Human Landing System
+Lunar Suits
+Surface Logistics
+Exploration Technologies
+Lunar Discovery and Exploration Program
+Total Phase I Requirements
+$2,894.7
+3,222.5
+177.3
+67.6
+251.0
+451.5
+$7,064.7
+$2,070.6
+3,553.1
+141.0
+69.2
+292.0
+517.3
+$6,643.1
+$1,487.6
+4,100.4
+94.2
+141.9
+268.0
+491.3
+$6,583.4
+$919.0
+3,571.3
+63.1
+196.0
+223.0
+458.3
+$5,430.7
+$252.0
+1,719.0
+42.5
+77.7
+158.0
+0.0
+$2,249.2
+$7,623.9
+16,166.4
+518.1
+552.4
+1,192.0
+1,918.3
+$27,971.1
+Source: NASA’s Lunar Exploration Program Overview, Appendix 5: Artemis Plan Funding Requirements (September 2020).
+Note: Amounts are rounded. Totals may not equal the sum of the rounded amounts. Lunar Discovery and Exploration Program does not
+have any estimated funding requirements in FY 2025 because, under a 2024 lunar landing schedule, its activities related to Artemis III will be
+completed by 2024.
+According to the Artemis Plan, returning astronauts to the surface of the Moon by 2024 would cost
+nearly $28 billion between FYs 2021 and 2025.43 However, this projection is limited to funding required
+for Phase 1 of NASA’s two-phase lunar exploration strategy. Phase 1 is the near-term focus on achieving
+the initial human landing by 2024—costs directly associated with the first three Artemis missions.
+Phase 2 is defined as the development and deployment of sustainable systems that will allow America’s
+human space flight program to maintain a robust lunar presence into the next decade—Artemis IV and
+beyond. The $28 billion excludes funding for any system not directly necessary for Artemis I, II, or III,
+including the SLS Block 1B—the next, more powerful iteration of the SLS heavy-lift rocket—and
+Mobile Launcher 2— the ground platform that will launch Block 1B to the Moon—as well as future Orion
+capsules and the Gateway, all of which are in various stages of development or production.44
+Best practices for developing reliable cost estimates are grounded on the precepts that the estimate
+should be comprehensive, well-documented, accurate, and credible.45 NASA officials maintained that
+the total Phase 1 funding requirement contained in Table 1 was not an “official cost estimate” and
+instead was largely compiled using program and project estimates from the FY 2021 President’s Budget
+Request. Given the exclusion of Phase 2 costs, the Artemis Plan is certainly not comprehensive or
+consistent with cost estimating best practices. In addition, ESD Programs—SLS, Orion, and EGS—do not
+track costs by Artemis mission. We therefore question the accuracy of cost information for the Artemis
+Plan’s funding table, which specifically includes costs for the Artemis I, II, and III missions only. While
+the cost estimates in NASA’s Artemis Plan provides important context about the level of funding needed
+for near-term Artemis missions, it lacks the comprehensiveness, analytical rigor, and credibility of an
+Artemis program-wide cost estimate. By failing to develop an official cost estimate that includes all
+relevant costs, NASA is underreporting the true funding requirements for a long-term Artemis program.
+43 NASA’s Lunar Exploration Program Overview, Appendix 5: Artemis Phase 1 Funding Requirements (September 2020).
+44 On August 26, 2021, NASA OIG announced that it would be conducting an audit of NASA’s management of the Mobile
+Launcher 2 contract.
+45 GAO, Cost Estimating and Assessment Guide: Best Practices for Developing and Managing Program Costs (GAO-20-195G,
+March 12, 2020).
+NASA Office of Inspector General IG-22-003 20
+Total Artemis Costs Expected to Reach $93 Billion
+by 2025
+To account for all Artemis costs for FYs 2021 through 2025, including Phase 2 projects like the SLS
+Block 1B, Mobile Launcher 2, and Gateway, we found that $25 billion should be added to the Artemis
+Plan’s estimated costs, increasing the total costs over this 5-year period to $53 billion. Furthermore,
+when considering the $40 billion already spent on the Artemis mission from FYs 2012 to 2020, the total
+projected cost through FY 2025 becomes $93 billion.46 The $93 billion reflects the cost of supporting
+Artemis throughout NASA’s directorates and divisions, particularly HEOMD and the Science Mission
+Directorate. See Table 2 for the breakdown of full Artemis mission costs from FYs 2012 to 2025.
+46 We used NASA’s official accounting system to capture program costs from FYs 2012 through 2020, segregating Artemis-
+related work by Work Breakdown Structure code. For FYs 2021 through 2025, we used the FY 2021 Budget Operating Plan,
+FY 2022 President’s Budget Request, and FY 2021 President’s Budget Request and accounted for additional costs such as the
+development of the SLS Block 1B configuration, Mobile Launcher 2, and Gateway; production of future Orion capsules; and
+mission support to calculate the $25 billion added to the $28 billion NASA projection for the same time period.
+NASA Office of Inspector General IG-22-003 21
+Table 2: Artemis Cost Breakdown and Budget Projection through FY 2025 (as of August 2021, Dollars in
+Millions)
+Program/Project FYs 2012 -
+2020
+FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 Total
+Exploration Systems
+Development
+Orion
+Space Launch System
+Exploration Ground Systems
+Advanced Exploration Systems
+Human Landing System
+Gateway
+Extravehicular Spacesuit
+Developmenta
+Exploration Research and
+Developmentb
+Lunar Discovery and
+Exploration Program
+Other Space Technologiesc
+Mission Supportd
+Total
+$32,878.4
+11,398.8
+17,233.6
+4,246.0
+1,280.5
+577.8
+702.7
+174.2
+3,327.9
+605.1
+1,237.5
+498.3
+$40,001.9
+$4,544.6
+1,403.7
+2,560.9
+580.0
+1,627.1
+928.3
+698.8
+N/A
+345.7
+443.5
+1,211.4
+1,551.0
+$9,723.3
+$4,483.7
+1,406.7
+2,487.0
+590.0
+1,980.0
+1,195.0
+785.0
+N/A
+416.7
+497.3
+1,442.0
+1,506.0
+$10,325.7
+$4,384.0
+1,340.0
+2,486.0
+558.0
+2,077.2
+1,266.7
+810.5
+N/A
+552.9
+501.3
+1,658.0
+1,501.0
+$10,674.4
+$4,219.0
+1,239.0
+2,466.0
+514.0
+2,344.5
+1,579.5
+765.0
+N/A
+700.2
+458.3
+1,756.0
+1,492.0
+$10,970.0
+$3,888.0
+1,084.0
+2,290.0
+514.0
+2,659.0
+1,989.0
+670.0
+N/A
+967.9
+458.3
+1,854.0
+1,440.0
+$11,267.2
+$54,397.7
+17,872.2
+29,523.5
+7,002.0
+11,968.3
+7,536.3
+4,432.0
+$174.2
+6,311.3
+2,963.8
+9,158.9
+7,988.3
+$92,962.5
+Source: Costs are based on total obligations from NASA’s official accounting system (FYs 2012 through 2020), FY 2021 Budget Operating Plan,
+FY 2021 President’s Budget Request, and FY 2022 President’s Budget Request (FYs 2021 through 2025).
+a Prior to FY 2020, extravehicular spacesuit development was funded through multiple NASA entities including the ISS Program. In FY 2020,
+funding was split between those entities and the Gateway Program and starting in FY 2021, funding for spacesuits was budgeted in the Gateway
+Program. As a result, spacesuit funding is no longer applicable in the Extravehicular Spacesuit Development line as of FY 2021 and is instead
+reflected in the Gateway funding line.
+b Exploration Research and Development includes Other Advanced Exploration Systems, Advanced Cislunar and Surface Capabilities, and the
+Human Research Program.
+c Other Space Technologies includes Space Technology and Space Communications and Navigation. The Space Technology Mission Directorate
+portfolio consists of thousands of projects, activities, grants, and contracts which support technology investments benefiting multiple
+stakeholders, including the Artemis program. The total Space Technology obligations (FYs 2019 through 2020) reflected in the table above,
+within the Other Space Technologies line item, represent a high-level estimate and may be inclusive of activities which are not solely Artemis-
+specific.
+d Mission Support includes Safety, Security, and Mission Services and Construction and Environmental Compliance and Restoration.
+NASA Office of Inspector General IG-22-003 22
+SLS/Orion Production and Operating Costs Will Average
+Over $4 Billion Per Launch
+We project the cost to fly a single SLS/Orion system through at least Artemis IV to be $4.1 billion per
+launch at a cadence of approximately one mission per year.47 Building and launching one Orion capsule
+costs approximately $1 billion, with an additional $300 million for the Service Module supplied by the
+ESA through a barter agreement in exchange for ESA’s responsibility for ISS common system operating
+costs, transportation costs to the ISS, and other ISS supporting services. In addition, we estimate the
+single-use SLS will cost $2.2 billion to produce, including two rocket stages, two solid rocket boosters,
+four RS-25 engines, and two stage adapters. Ground systems located at Kennedy where the launches
+will take place—the Vehicle Assembly Building, Crawler-Transporter, Mobile Launcher 1, Launch Pad,
+and Launch Control Center—are estimated to cost $568 million per year due to the large support
+structure that must be maintained. The $4.1 billion total cost represents production of the rocket and
+the operations needed to launch the SLS/Orion system including materials, labor, facilities, and
+overhead, but does not include any money spent either on prior development of the system or for next-
+generation technologies such as the SLS’s Exploration Upper Stage, Orion’s docking system, or Mobile
+Launcher 2. Figure 7 provides a breakout of the operating cost per launch for the SLS/Orion system.
+47 The cost per launch was calculated as follows: $1 billion for the Orion based on information provided by ESD officials and
+NASA OIG analysis; $300 million for the ESA’s Service Module based on the value of a barter agreement between ESA and
+the United States in which ESA provides the service modules in exchange for offsetting its ISS responsibilities; $2.2 billion
+for the SLS based on program budget submissions and analysis of contracts; and $568 million for EGS costs related to the
+SLS/Orion launch as provided by ESD officials.
+NASA Office of Inspector General IG-22-003 23
+Figure 7: Estimated SLS and Orion Operating Costs Per Launch
+Source: NASA OIG presentation and analysis of Agency data.
+NASA has spent billions of dollars to date on the design, development, testing, and evaluation of the ESD
+systems needed for the Artemis missions, and expects significant cost savings once the systems reach
+sustaining operations. Although NASA has worked diligently to find production efficiencies and other
+cost-saving measures—such as HEOMD’s establishment of a review team in January 2021 to examine
+methods to reduce the high cost of a single launch—the system will remain extremely costly due to sole
+sourcing the SLS and Orion follow on-production awards, continuing to use cost-plus contracts, and the
+high cost of ground support. Moreover, except for the Orion capsule, its subsystems, and supporting
+launch facilities, all components are expendable and “single use” unlike emerging commercial space
+flight systems such as SpaceX’s HLS Starship and Dragon capsule/Falcon 9 booster.
+A myriad of interrelated factors contribute to the high cost of ESD Programs, many of which we reported
+on in the past several years.48 First, in the NASA Authorization Act of 2010, Congress directed NASA to
+incorporate preexisting Shuttle- and Constellation-era contracts and modify heritage equipment in
+48 NASA OIG, Audit of NASA’s Development of Its Mobile Launchers (IG-20-013, March 17, 2020); NASA’s Management of the
+Space Launch System Stages Contract (IG-19-001, October 10, 2018); IG-20-018; and IG-20-012.
+NASA Office of Inspector General IG-22-003 24
+developing the SLS and Orion.
+49 As such, these large development contracts—the SLS’s stages, boosters,
+and engines and Orion’s capsule—were sole sourced, eliminating any potential cost benefits of
+competition. Competing follow-on awards for production several years later became a non-starter due
+to the high cost of a new contractor instituting its own manufacturing processes and building facilities—
+a cost estimated at $4.5 billion for the Core and Exploration Upper Stages. Second, NASA continues to
+use a cost-plus contracting structure even though it has experienced 3 years of delays and cost increases
+of $4.3 billion for the three ESD Programs. Although NASA officials say they intend to transition to
+potentially less costly fixed-price contracts, only the Orion Program has successfully negotiated a
+fixed-price component in its production contract—but even that structure will not commence until
+Artemis IX. Third, multiple contractors associated with the Artemis program have been permitted to
+begin work without NASA adequately defining the contract’s specific terms. For example, the first
+stages contract took 2 years before NASA and the contractor agreed on pricing and as of August 2021
+NASA is still negotiating the follow-on production contracts for the SLS boosters and stages.50 Over
+time, failure to agree on such key contract terms reduces the government’s ability to influence the final
+pricing as it invests more and more time and money into a project.
+Finally, NASA has not consistently used the award fee structure to incentivize better contractor
+performance. Even when a contractor performed poorly, NASA provided award fees commensurate
+with a company whose performance was very good or excellent. Despite being 3 years behind schedule
+and billions over budget, Boeing averaged 86 percent in award fees for core stage production over the
+life of the initial SLS Stages contract, receiving a “very good” rating. In another case, after a contracting
+officer for the SLS booster office denied Northrop Grumman’s request multiple times over a 4-year
+period for award fees on costly redesign work, the SLS Program ultimately conceded and recommended
+an “excellent” award fee rating for work previously considered unsatisfactory.51 Additionally, in our
+2020 examination of the Orion Program, we questioned $27.8 million in fees awarded to Lockheed
+Martin from September 2006 to April 2015.52
+Ongoing Affordability Initiatives and Commercial
+Alternatives
+While the SLS is required for the near-term transportation of astronauts beyond low Earth orbit, in our
+judgment continuing to rely on such an expensive heavy-lift space flight system will inhibit NASA’s ability
+to reach its long-term human exploration goals in a timeframe anywhere close to its stated schedule.
+Transportation is only one aspect of deep space exploration with NASA requiring substantial funding for
+the science, technology, and infrastructure required to sustain astronauts on the lunar surface and
+ultimately Mars. Notably, HEOMD recognizes the need to enhance the affordability and
+49 Pub. L. No. 111-267, 124 Stat. 2805. The Constellation Program was established during the George W. Bush Administration
+in 2006 and canceled under the Obama Administration in 2010. Constellation was similar to Artemis in that it sought to
+return humans to the Moon, explore the solar system, and promote international and commercial participation in space
+exploration.
+50 NFS 1843.7005(a), Definitization (2018) provides that NASA’s goal is to definitize contracts within 180 days—approximately
+6 months—after issuance.
+51 An award fee rating of “excellent” means the contractor exceeded almost all of the significant award fee criteria and met
+overall management, cost management, technical performance, and several other criteria. A rating of “very good” means
+the contractor exceeded many of the expectations.
+52 IG-20-018.
+NASA Office of Inspector General IG-22-003 25
+sustainability of ESD systems and is exploring options to this end. First, HEOMD was successful in
+stabilizing the flight manifest—changes in missions and rocket configurations caused requirements
+changes and thus increased costs with contractors.53 In January 2021, HEOMD’s Associate Administrator
+informed the directorate that a senior advisor would be leading a sustainability assessment team to
+develop ideas on how to make ESD systems more cost effective. Further, HEOMD directed its program
+managers to include a roadmap for potential cost-saving actions as part of the recent FY 2023 budget
+development process. The suggestions included collaboration with contractors on process
+improvements, reductions of production cycle time, and a reduction in both the civil servant and
+contractor work force, among others. However, with respect to specific commitments with contractors,
+only the RS-25 new engine program has established cost reduction targets for its contractor—in this
+case 33 percent—for the Agency to measure its progress.
+In June 2021, the SLS Program forecasted a 13 percent reduction or approximately $5 million a month
+in labor hours between the production of Core Stage 1 and Core Stage 2. NASA and Boeing are also
+working on a 5-year project to optimize the Stages production areas at the Michoud Assembly Facility,
+including rearranging the factory for better flow and integration sequencing and reducing downtime
+for welding tools. Boeing plans to arrange a schedule to share welding structures for optimal efficiency,
+as well as automating processes previously done by hand. However, achieving overall cost savings will
+be challenging even with components such as the RS-25 engines and their 33 percent cost reduction
+target given that the Space Shuttle-era engines were existing government-owned equipment with
+modifications that included new engine controllers. In addition, NASA’s engine costs will soon
+increase since the SLS Block 1 upper stage has only one RL-10 engine while the Block 1B configuration
+requires four.54
+As we reported in 2020, Orion is moving forward on a number of initiatives aimed at reducing
+production costs.55 The Program plans to transition to a fixed-price contract structure for Artemis IX and
+beyond. There are also plans to reuse high-value interior components such as avionics and life support
+systems, light reuse of crew systems beginning on Artemis V, and/or reusing the assembled pressure
+vessels and all interior components once for two missions beginning with Artemis VI. Additionally, NASA
+hopes to leverage economies of scale and reduce costs by 21 percent by ordering Orion capsules in
+batches of three, the most affordable approach for production as determined by NASA officials in 2019.
+In the near-term, the SLS is the only launch vehicle with the capability to lift the 27-metric ton Orion
+capsule to lunar orbit. However, in the next 5 to 7 years other human-rated commercial alternatives
+may become available. These commercial ventures will likely capitalize on multiple technological
+innovations, making them lighter, cheaper, and reusable. Further driving down costs is the competition
+between aerospace companies such as SpaceX and Blue Origin. Although Congress mandated that NASA
+build the SLS and Orion for its space exploration goals in 2010, the Agency may soon have more
+affordable commercial options to carry humans to the Moon and beyond.56 In our judgment, the
+53 For example, on July 23, 2021, NASA awarded a contract to SpaceX to launch the Europa Clipper science mission, rather than
+an SLS.
+54 NASA purchases the RL-10 engines on a contract separate from the Stages and Stages Production and Evolution Contract
+contracts at a cost of $10.8 million each; therefore, the cost for the Block 1B upper stages engines will rise approximately
+$32.4 million.
+55 IG-20-018.
+56 As an example, SpaceX is designing the Starship to fly astronauts from Earth to its destination and back on the same
+spacecraft. Congress’s mandates are found in: Pub. L. No. 111-267, 124 Stat. 2805.
+NASA Office of Inspector General IG-22-003 26
+Agency should continue to monitor the commercial development of heavy-lift space flight systems and
+begin discussions of whether it makes financial and strategic sense to consider these options as part
+of the Agency’s overall plan to support its ambitious space exploration goals. Figure 8 shows a
+comparison of commercial medium- to heavy-lift launch vehicles that may become available in the
+near-term.
+Figure 8: Selected Near-Term Medium-to-Heavy Lift Launch Vehicle Comparisons
+Source: NASA OIG depiction of Agency program and company information.
+a In response to a NASA OIG request, Blue Origin declined to provide information about the New Glenn rocket. Data displayed in the table is from
+publicly available sources and has not been confirmed with the company.
+b Starship upmass capabilities to low Earth orbit and trans-lunar injection require multiple launches and in-space refueling.
+NASA Office of Inspector General IG-22-003 27
+NASA’S MODIFIED ACQUISITION AND
+MANAGEMENT APPROACHES FOR HLS WILL
+REDUCE COSTS AND ENCOURAGE INNOVATION
+BUT ALSO INCREASE RISK
+NASA modified both its HLS acquisition and management approaches to reduce costs, encourage
+innovation, and meet an aggressive schedule for its Artemis lunar landings. While its acquisition
+approach relies on competition to drive down costs and ensure redundancy, the Agency selected only
+one provider after receiving $2.5 billion less than requested for HLS development in FY 2021 alone.
+To mitigate this constraint, the Agency is accelerating the LETS procurement. In September 2021
+NASA awarded five contracts to companies to continue developing HLS capabilities, which are intended
+to help prepare industry to be competitive for a future lunar transportation services award under the
+LETS procurement. NASA has also worked diligently to solidify its HLS requirements and standards;
+however, under the Agency’s tailored project management approach for HLS the contractor retains
+significant latitude with less technical reviews than NASA has historically afforded and this approach
+runs the risk of technical changes later in development. Finally, NASA is using a series of new
+collaborative processes instead of a systems integrator or Artemis program manager as it has in
+previous multi-component projects. Although these modified approaches have potential benefits of
+decreasing costs and encouraging innovation, they correspondingly raise the possibility of schedule and
+performance risks on NASA’s human-rated systems.
+Only One Company Selected for HLS Demonstration
+Mission Due to Reduced Funding
+NASA’s HLS Program received significantly less funding from Congress than requested, presenting both
+immediate and longer-term challenges. Specifically, NASA requested $3.4 billion to fund multiple HLS
+demonstration awards to create a competitive environment intended to drive down costs, offer
+redundancy, and promote innovation. However, the Agency only received about 25 percent of its
+requested amount in FY 2021, ultimately allocating about $928 million for the HLS in its final FY 2021
+operating plan.57 Under its initial appropriation request, the HLS Program proposed a heavily front-
+loaded funding profile with awards to multiple contractors to demonstrate lunar landings of their HLS
+vehicles on an ambitious timetable. Under this plan, one contractor would provide its HLS for a 2024
+crewed landing while another would demonstrate its HLS design on a follow-on 2026 landing. The
+FY 2021 appropriation led to NASA selecting a single HLS contractor—SpaceX—in April 2021 rather than
+two as the Program preferred.
+57 The Budget Operating Plan allocates NASA’s appropriation into the program line items with limited flexibility to reallocate
+funding from one category to another.
+NASA Office of Inspector General IG-22-003 28
+In response to awarding only one initial demonstration contract, NASA decided to accelerate the LETS
+acquisition instead of continuing to procure single demonstration missions and also created additional
+lunar lander research, development, and demonstration opportunities for industry. NASA developed a
+Broad Agency Announcement open to all U.S. Industry for insight into sustaining requirements,
+standards, and risk reduction efforts unique to the provider’s design. In September 2021, the HLS
+Program awarded contracts to five companies to develop lander design concepts, evaluate their
+technical capabilities, conduct critical component tests, and advance the maturity of key technologies,
+thereby better positioning multiple contractors for future HLS service awards.
+Further, the FY 2022 President’s Budget Request does not currently contain funds to support a second
+HLS demonstration award—a scenario NASA expected would provide redundancy while creating a
+competitive environment that would likely drive down costs.58 For both NASA’s Commercial Cargo and
+Crew Transportation Programs, redundancy proved to be essential as both programs experienced failed
+flights that were mitigated by having a second provider available to fly missions to the ISS.59
+Additionally, each of the three companies in the initial HLS design phase offered different approaches—
+including a range of in-flight refueling; crew station layouts; and ascent, descent, and transfer
+elements—to tackle technical and operational challenges.
+A lack of funding early in development not only delays the awarding of a contract to a second HLS
+provider, it also raises the possibility of schedule delays if project managers have to defer the
+development of critical technologies. Additionally, it is essential for the funding to be allocated
+appropriately over the course of a program’s life cycle. Although NASA contends that it has sufficient
+funding for SpaceX to conduct the single demonstration mission, several milestones had to be delayed
+to compensate for its smaller funding profile. In accordance with best practices, a system life-cycle
+model resembles a bell-shaped funding curve for research, development, testing, and evaluation with
+more resources needed as development progresses and programmatic risks are identified and
+remediated (see Figure 9).60 Space flight systems in particular must invest heavily in these activities
+because once a system is launched into space it cannot be retrieved for maintenance.
+58 In May 2021 the President submitted to Congress a funding request of $1.2 billion for the HLS for FY 2022. Despite not
+requesting additional money to support a second HLS award, the Administration maintained in its new budget request that
+NASA still plans to have multiple landing systems either prior to or after the planned 2024 lunar landing demonstration.
+59 Failed flights for the commercial cargo and crew missions included: Orbital Sciences Orbital-3, a 2014 cargo mission that
+exploded seconds after liftoff; SpaceX’s CRS-7, a 2015 cargo mission that disintegrated shortly after launch; and Boeing’s
+Orbital Flight Test, a 2019 crew vehicle test that failed to enter its correct orbit and rendezvous with the ISS. More recently,
+in August 2021, Boeing was unable to launch its second commercial crew flight test due to valve issues in its Starliner
+propulsion system, delaying again any crewed flights.
+60 GAO-20-195G.
+NASA Office of Inspector General IG-22-003 29
+Figure 9: HLS Funding Profiles vs. Representative System Life-Cycle Cost Estimate
+Source: NASA OIG presentation of Agency data and extrapolation of guidance from GAO-20-195G.
+Note: The annual President’s Budget Request spans five fiscal years. For our analysis, we assumed a flat level of funding from
+FY 2026 onward. In addition, the orange curve represents a single system profile even though the HLS Program intends to
+fund the development of multiple systems.
+Maintaining a late 2024 timetable to land astronauts on the Moon will mean SpaceX’s HLS Starship will
+have less than 5 years for development and human-rated testing. As demonstrated in Figure 9, NASA’s
+initial proposal for HLS funding (blue line) more closely resembles the shape of a typical development
+bell curve (orange line), but receipt of substantially less money in FY 2021 (green line) resulted in a
+significant flattening of that curve. This increases risks of schedule delays and long-term costs if the
+underfunding continues early in development. Given that NASA received significantly less funding than
+requested and the technical issues the Agency identified in its reviews of contractor design submissions,
+HLS will take longer and cost more money than expected if not adequately funded in its current
+development period.
+Modified Fixed-Price Contract Will Reduce Cost Growth
+and NASA’s Process to Mitigate Technical and Safety
+Risks Is Being Implemented
+NASA has traditionally used cost-plus contracts for space flight development but modified this approach
+to use firm-fixed-price and FAR Part 35 contracts for HLS development to help manage costs. In the
+past, the Agency relied on cost-plus contracts as requirements evolved and fixed-price contracts when it
+NASA Office of Inspector General IG-22-003 30
+could clearly define costs and risks.61 Firm-fixed-price contracts have the benefit of consistent, upfront
+costs to a program, eliminating the potential for cost growth that has been typical with the Agency’s
+cost-plus contracts.
+While NASA’s use of firm-fixed-price contracts for HLS will help limit the excessive cost growth
+experienced by the SLS and Orion Programs, the Agency’s approach for HLS has its own challenges. For
+example, NASA’s use of a modified firm-fixed-price approach for HLS will likely reduce cost, but may also
+exacerbate schedule, performance, and safety issues should the contractor be slow to meet certification
+requirements. Much like the Commercial Cargo and Crew Programs in their initial stages, NASA’s
+acquisition strategy includes companies developing the HLS to share development costs with the
+Agency, a procedure that, coupled with a system of milestone payments, is designed to reduce costs.62
+Towards this end, SpaceX has contributed much more than half of the required funding to date for the
+HLS system and plans to continue this level of contribution.63 In addition, contractor flexibility in
+meeting requirements provides the freedom to innovate; however, it also runs the risk of not meeting
+NASA requirements, especially when it comes to human rating the spacecraft. To its credit, NASA added
+specific design and construction standards to the demonstration contract with SpaceX to better ensure
+compliance with requirements as well as a special clause that strengthens the Agency’s insight to ensure
+certification of flight readiness. Nonetheless, in a 2019 report on the Commercial Crew Program we
+noted a significant amount of verification work needed to achieve flight readiness, and thus the
+challenge for NASA and SpaceX will be the timely processing of HLS documents and test results to verify
+compliance with Agency standards.64
+The Commercial Crew Program was ultimately successful in using a similar approach, but it took the
+commercial partners 10 years to reach flight readiness, largely because of difficulties meeting human
+rating requirements. Even if the first HLS flight occurred in 2028 as originally planned, that would still be
+a faster development timeline than the Commercial Crew Program, which delivered astronauts to the
+ISS in low Earth orbit rather than to the Moon, a distance nearly 200 times farther. However, we found
+NASA’s process for conducting insight with commercial partners to mitigate technical and safety risks
+throughout development is already well developed and is being implemented.65 Although NASA’s
+Aerospace Safety Advisory Panel had expressed concerns in their 2020 annual report about the Agency’s
+lack of oversight over key commercial partners in the HLS Program, recent AES interactions with the
+Panel have noted the HLS Program’s progress in establishing its governance and integration model
+61 Examples of NASA’s previous fixed-price contracts for space flight systems include the later developmental periods of the
+Commercial Crew Program and the third generation of NASA’s Tracking and Data Relay Satellites, which provide tracking,
+data, voice, and video services to the spacecraft and to NASA’s space and science missions, other federal agencies, and
+commercial users.
+62 In the Commercial Crew Program, as the schedule slipped nearly 3 years milestone payments were also delayed, but the
+overall fixed-price contract costs have not increased more than 5 percent. See NASA OIG, NASA’s Management of Crew
+Transportation to the International Space Station (IG-20-005, November 14, 2019). Slippage in schedule also occurred
+in the initial HLS design phase, but payment was not released until the milestone was achieved, thereby incurring no
+additional cost.
+63 SpaceX officials provided this characterization of the amount of its corporate funding—the exact number is withheld from
+our report to protect future competitions.
+64 IG-20-005.
+65 Oversight is the process in which NASA approves and directly manages contractor activities while insight occurs when the
+Agency monitors contractor activities but does not require specific approvals for most decisions. HEOMD published its
+Crewed Deep Space Systems Human Rating Certification Requirements and Standards for NASA Missions document in
+March 2021. In turn, the HLS Program cross-walked the program requirements with the HEOMD guidance and published its
+own set of required guidance for certification.
+NASA Office of Inspector General IG-22-003 31
+which is key in providing oversight.66 Moreover, NASA’s Chief Engineer noted the progress made in both
+establishing safety standards and governance. Finally, while we observed that the Commercial Crew and
+Cargo Programs have personnel on-site at SpaceX’s facilities and the HLS Program does not, officials plan
+to institute resident offices at SpaceX locations once the Blue Origin litigation is concluded. NASA
+officials have told us personnel resident at contractor sites help ensure effective communication among
+all parties.
+Project Management Approach for the Human Landing
+System Modeled After Commercial Crew Program
+To meet the aggressive goal of a crewed lunar landing in 2024, the HLS Program adopted a tailored
+project management approach that is modeled, in part, after the Commercial Crew Program.
+Specifically, instead of using the Agency’s standardized series of technical milestones for major
+acquisitions, HLS is leveraging an approach that relies on reduced reviews and data submissions to
+encourage innovation and reduce costs. For example, HLS held two design reviews—a Certification
+Baseline Review and Continuation Review—for the three companies that received a contract for the
+initial HLS design work. Both of these reviews took the place of the typical series of design reviews
+required in the Formulation phase of an acquisition, meeting the intent of standard review
+requirements.67 After completing this initial design work, the Program plans to follow its standardized
+project management approach where an Agency Baseline Cost and Schedule commitment will be made
+following its next milestone—KDP-C.68 Contractually negotiated design reviews for SpaceX, such as the
+Critical Design Review, will follow for the SpaceX HLS Starship.69 Programmatically, after KDP-C, the
+Program will deviate again from the typical program milestones and use annual reviews (called
+synchronization reviews) throughout development and testing, ending with the HLS’s landing on the
+lunar surface.
+The Commercial Crew Program awarded multiple early development contracts during a 4-year period
+before holding the Certification Baseline Review to provide time to develop more mature designs.
+While HLS Program officials told us they are leveraging lessons learned from the Commercial Crew
+Program, HLS had only 4 months from the start of the contract before they held the Certification
+Baseline Review. NASA officials told us that the HLS team successfully worked with all three contractors
+during the initial design work, which helped determine design and construction standards and resulted
+in agreements on how to build the landers prior to finalization of the demonstration mission contract.
+Nonetheless, since all three HLS submissions had immature technologies, NASA could have benefitted
+from additional time to mature the designs and key technologies prior to holding both reviews, much
+like with the Commercial Crew Program.
+66 The Aerospace Safety Advisory Panel evaluates NASA’s safety performance and advises the Agency on ways to improve that
+performance.
+67 In Formulation, a typical NASA acquisition will have a Systems Readiness Review, Systems Design Review, and Preliminary
+Design Review. Rather than doing those reviews, the HLS Program opted for a Certification Baseline Review intended to
+finalize functional and performance requirements, and a Continuation Review intended to evaluate the design’s readiness for
+a potential award for demonstration and to be equivalent to a less stringent version of a Preliminary Design Review.
+68 KDPs are the events where the decision authority determines the readiness of a program or project to continue to the next
+phase of the life cycle. Specifically, KDP-C allows the HLS to progress to final design and fabrication.
+69 The Critical Design Review demonstrates that the maturity of the design is appropriate to support proceeding with full-scale
+fabrication, assembly, integration, and testing.
+NASA Office of Inspector General IG-22-003 32
+Moving forward, NASA is taking on additional risk if the new annual synchronization reviews do not
+meet the intent of milestones KDP-D and -E, the Systems Integration Review, and the Operational
+Readiness Review that take place before spacecraft flight in order to address technical and engineering
+risks.70 Milestone reviews are important opportunities for a program to assess and mitigate risks
+throughout development, such as ensuring that key technologies and subsystems are maturing and
+safety requirements are met. Without holding those reviews or ensuring the substance of those reviews
+are captured in the annual synchronization reviews, NASA may lack appropriate insight into HLS
+development.
+For its part, NASA officials told us that in addition to insight teams looking into the HLS’s development,
+they stood up “collaboration teams” during the initial design contracts to serve as a NASA resource to
+the contractors and assist with solving problems. Initially, the HLS Program dedicated about 50 NASA
+employees to work with each contractor, with plans to increase that number for the follow-on
+development contract.
+NASA Managing Artemis Activities Using Newly
+Established Processes Rather Than a Systems Integrator
+or Program Manager
+NASA has developed a multi-faceted management structure to facilitate systems integration among the
+multiple Artemis programs and projects. In addition, GAO’s Standards for Internal Control notes that
+management should establish an organizational structure, assign responsibility, and delegate authority
+to achieve the entity’s objectives.71 Table 3 provides a description of the membership, status, and
+responsibilities of the recently created collaboration entities.
+70 Annual synchronization reviews are tailored reviews where the contractor provides data similar to KDPs including a review of
+configuration, maturity, and integrated analyses, as well as Standing Review Board Independent Assessments. KDP-D is the
+milestone event that allows a project to proceed to Assembly, Integration and Test, and Launch and KDP-E moves the project
+into Operations and Sustainment. A Systems Integration Review ensures segments, components, and subsystems are on
+schedule to be integrated into the system. The Operational Readiness Review ensures that all system and support (flight and
+ground) hardware, software, personnel, procedures, and user documentation accurately reflect the deployed state of the
+system.
+71 GAO’s Standards for Internal Control in the Federal Government (GAO-14-704G, September 10, 2014) sets the standards for
+an effective internal control system for federal agencies and provides the overall framework for designing, implementing,
+and operating that system. The standards note that having a control environment that has discipline and structure helps
+define objectives and how control activities are structured.
+NASA Office of Inspector General IG-22-003 33
+Table 3: Summaries of Newly Instituted Artemis Coordination, Collaboration, and Board Processes
+Collaboration
+Process Membership Status Responsibilities
+Federated Board
+HEOMD, Science, and Space
+Technology Mission Directorates,
+and Program Offices
+Implemented: Yes
+Codified: No
+• Established by the prior NASA Administrator to
+address cross-directorate issues represented
+by divisions within HEOMD and the Science
+and Space Technology Mission Directorates
+• Only for discussions, not a decision board
+Expanded
+Federated Board
+HEOMD, Science, and Space
+Technology Mission Directorates,
+and Program Offices; General
+Counsel; Mission Support; and
+Office of International and
+Interagency Relations
+Implemented: Yes
+Codified: No
+Larger version of the Federated Board that
+includes other support and groups
+Joint Directorate
+Program
+Management
+Council
+As needed: HEOMD, Science, and
+Space Technology Mission
+Directorates, and Program Offices
+Implemented: Yes
+Codified: No
+Decision making authority for Artemis programs
+and projects across all NASA directorates
+HEOMD Systems
+Engineering and
+Integration
+Function
+Office is a delegated function of
+the HEOMD Associate
+Administrator across all HEOMD
+divisions
+Implemented: Yes
+Codified: Yes
+• Responsible for providing overall strategic
+guidance and input on system requirements
+• Lead overall Artemis architecture and has key
+role in formulation mission planning
+• Integrate science and technology goals from
+mission directorates and international partners
+for Artemis missions, and the strategy to
+prepare for future human missions to Mars
+Joint AES-ESD
+Control Board
+Co-Chairs: AES and ESD Deputy
+Associate Administrators and
+supporting staff, Artemis-related
+Program and Project Managers
+HEOMD SE&I: Ad-hoc member
+Implemented: Yes
+Codified: Charter
+approved; awaiting
+signature
+• Disposition program changes jointly affecting
+AES/ESD that exceed individual or multiple
+program cost and schedule authority, including
+joint AES/ESD controlled schedule and
+milestone changes
+• Review and approve joint AES/ESD mission
+content, priorities, and integrated scope
+through flight readiness certifications to
+ensure AES and ESD programs and personnel
+are ready to support the mission
+AES Control Board
+AES Deputy Associate
+Administrator and supporting
+staff, AES Managers, and Artemis
+Program Offices; Ad Hoc members
+from ESD, other directorates, and
+programs involved in Artemis
+crewed missions
+Implemented: Yes
+Codified: Charter
+approved; awaiting
+signature
+• Establish and manifest Artemis III and
+subsequent missions’ launch and landing
+services, logistics and payload manifests, flight
+objectives, and priorities
+• Establish and manage the AES Division
+technical and programmatic baseline (budget,
+schedule, technical, mission definition, and
+risks)
+• Disposition and approval for elevation for
+recommended changes, exceptions,
+deviations, or waivers
+NASA Office of Inspector General IG-22-003 34
+Collaboration
+Process Membership Status Responsibilities
+Joint Program
+(Integration)
+Control Boards at
+various levels
+AES and ESD programs and
+projects conducting integration
+activities;
+HEOMD SE&I: Ad-hoc attendance
+Implemented: Yes
+Codified: Draft
+waiting approval
+Joint Program (Integration) Control Board
+charters and individual programs and projects
+Source: NASA OIG presentation of Agency data.
+Unlike the first crewed missions to the lunar surface under the Apollo Program, NASA has no overall
+NASA program manager overseeing the Artemis missions or a main contractor, as in the Space Shuttle
+Program, serving as a lead systems integrator.72 Instead, the Agency is giving as much flexibility as
+possible to the individual programs supporting Artemis while encouraging cross-program, directorate,
+and international partner communication through a range of collaboration processes, including those
+identified in Table 3. NASA has taken several steps to formalize this coordination: delegated Artemis
+planning for the lunar landing missions to AES, codified the integration approach, stood up and staffed
+the SE&I function, and developed charters for new joint control and integration boards at multiple
+levels. Further, NASA intends to use its existing Agency governance (Agency Program Management
+Council and Directorate Program Management Council), along with convening the Joint Directorate
+Program Management Council, for Artemis implementation and decision making. Even so, neither the
+Federated Boards nor the Joint Directorate Program Management Council are codified yet in Agency
+policy. As a result, these processes may not be smoothly executed, especially if leadership, program
+priorities, or key members of the workforce change. This is essential because the requirements and
+designs of one system affect the programs and projects across multiple directorates.
+72 Lead system integrators are prime contractors hired to manage large and complex programs within a given budget and
+schedule.
+NASA Office of Inspector General IG-22-003 35
+CONCLUSION
+NASA’s goal to land astronauts on the Moon’s South Pole in late 2024 faces multiple significant
+challenges including major technical risks, an unrealistic development schedule, and lower-than-
+requested funding levels. As a result, the 2024 date will likely slip to 2026 at the earliest. On top of an
+overly optimistic development schedule, the HLS bid protests to GAO delayed the HLS Program’s
+schedule by 6 months with an additional 3-month delay due to Blue Origin's follow-up lawsuit at the
+U.S. Court of Federal Claims. Moreover, delays in developing the Gateway will likely preclude the lunar
+outpost’s availability to provide communications and supplies for both the Orion and HLS during NASA’s
+early Moon landing missions.
+Given that NASA is likely to spend $93 billion on the Artemis program through FY 2025, and in light of
+the $4.1 billion cost-per-launch for at least its first four Artemis missions, it is important that the Agency
+not only identify ways to reduce costs but also take steps consistent with best practices to make current
+cost estimates more reliable and transparent. The Agency has acknowledged the high costs of its lunar
+and Mars goals and is examining ways to make the missions sustainable by transitioning some programs
+to fixed-price contracts. With the emerging capabilities provided by commercial partners, the Agency
+may have future options that can help control costs to meet its exploration goals. While NASA has made
+strides in ensuring communication and integration between the Artemis programs—such as establishing
+a HEOMD SE&I, Federated Boards, Joint Directorate Program Management Council, and Joint Program
+Boards—these nascent procedures remain at risk to unfamiliarity and changes in organization,
+leadership, or program priorities.
+Whether acquiring space flight systems for Artemis or eventually for crewed missions to Mars, NASA
+must determine its procurement and programmatic strategies to best support its objectives. This
+includes encouraging competition, using appropriate instruments—various FAR-based contracts or
+Space Act Agreements—and employing appropriate insight and oversight mechanisms to ensure NASA
+receives systems that meet its needs. Importantly, as we pointed out in our first Artemis report,
+understanding the state of technology development and level of maturity of requirements for each
+Artemis system will help inform decision makers on the best approach and produce realistic schedule
+and cost estimates.
+73
+73 IG-21-004.
+NASA Office of Inspector General IG-22-003 36
+RECOMMENDATIONS, MANAGEMENT’S RESPONSE,
+AND OUR EVALUATION
+To increase accuracy, transparency, and safety of human space flight, we recommended NASA’s
+Associate Administrator for Exploration Systems Development Mission Directorate:
+1. Develop a realistic, risk-informed schedule that includes sufficient margin to better align Agency
+expectations with the development schedule.
+2. Expand upon the existing draft Artemis IMS to include Artemis programs outside AES and ESD to
+properly align dependencies across directorates.
+3. Develop an Artemis-wide cost estimate, in accordance with best practices, that is updated on an
+annual basis.
+4. Maintain an accounting of per-mission costs to increase transparency and establish a
+benchmark against which NASA can assess the outcome of initiatives to increase the
+affordability of ESD systems.
+5. Definitize outstanding Artemis-related contracts within 180 days in accordance with NASA FAR
+Supplement 1843.7005(a), Definitization (2018).
+6. Develop a realistic funding profile and schedule given the underfunding of HLS in FY 2021, the
+selection of one HLS award, and the desire to compete a sustainability contract for future lunar
+missions.
+7. Identify measurable cost reduction targets for its ESD contractors.
+In addition, we recommended NASA’s Chief Engineer in coordination with the HLS Program Manager:
+8. Validate that the annual synchronization reviews meet the intent and expectations of the
+milestone reviews replaced by the tailored acquisition approach.
+We also recommended that the NASA Deputy Administrator in coordination with Mission Directorate
+Associate Administrators:
+9. Codify the remaining governance structure such as the Federated Boards and Joint Directorate
+Program Management Council.
+We provided a draft of this report to NASA management who concurred with Recommendations 1, 5, 6,
+7, and 8; partially concurred with Recommendations 2 and 9; and non-concurred with
+Recommendations 3 and 4. We consider management’s comments responsive to Recommendations 1,
+5, 6, 7, and 8 and therefore those recommendations are resolved and will be closed upon completion
+and verification of the proposed corrective actions. However, we found the Agency’s response to
+Recommendations 2, 3, 4, and 9 unresponsive. Consequently, those recommendations will remain
+unresolved pending further discussions with the Agency.
+NASA partially concurred with Recommendation 2 to include Artemis activities across the various
+directorates as part of its IMS. During the course of our audit, NASA developed a schedule that includes
+NASA Office of Inspector General IG-22-003 37
+PAUL
+MARTIN
+Digitally signed by PAUL
+MARTIN
+Date: 2021.11.15
+09:17:42 -05'00'
+both AES and ESD activities, but still lacks other important lunar activities such as the CLPS missions
+which intends to fly missions biannually to the Moon. While NASA tells us the Artemis missions are
+not dependent on these other activities, deconfliction of time, space, and resources is still needed as
+is integration of the essential information provided by these science investigations and technology
+demonstrations.
+NASA also partially concurred with Recommendation 9 to codify its remaining governance structures.
+NASA agreed with codifying the Joint Directorate Program Management Council, a key decision-making
+and review authority for the Artemis missions. However, the Agency did not agree to codify the
+Federated Board because it is a coordination entity and does not make decisions. We learned late in
+this audit that NASA was in the process of reviewing the necessity of maintaining this Board. To the
+extent the Agency retains the Federated Board, we believe a charter is needed because such a senior-
+level board can wield significant influence even if it does not have official decision-making authority.
+Additionally, NASA non-concurred with Recommendations 3 and 4 that address the need to track the
+overall cost of the Artemis program and each individual Artemis mission. For Recommendation 3, the
+Agency states that Artemis-wide cost tracking is not required according to its policy and as such Agency
+officials are following best practices in providing cost estimates and commitments for Agency-approved
+programs and projects. Likewise, in response to Recommendation 4—tracking costs by mission—NASA
+maintains it should not account for costs on a per-mission basis because doing so would reduce
+contractual transparency to key stakeholders. While we appreciate the importance of tracking metrics
+aimed at managing individual contracts within specific projects, failure to track the overall cost of the
+Artemis program and each individual mission reduces insight into the actual costs of the Artemis
+program and, in turn, makes it difficult to assess the Agency’s progress in reducing costs.
+Management’s comments are reproduced in Appendix E. Technical comments provided by
+management have been incorporated as appropriate.
+Major contributors to this report include Ridge Bowman, Space Operations Director; Kevin Fagedes,
+Project Manager; Scott Bruckner; Kelsey Dalton; Wayne Emberton; Tyler Martin; Daniel Mills;
+Lauren Suls; Earl Baker; and Shani Dennis.
+If you have questions or wish to comment on the quality or usefulness of this report, contact
+Laurence Hawkins, Audit Operations and Quality Assurance Director, at 202-358-1543 or
+laurence.b.hawkins@nasa.gov.
+Paul K. Martin
+Inspector General
+NASA Office of Inspector General IG-22-003 38
+Appendix A
+APPENDIX A: SCOPE AND METHODOLOGY
+We performed this audit from December 2020 through November 2021 in accordance with generally
+accepted government auditing standards. Those standards require that we plan and perform the audit
+to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis for
+our findings and conclusions based on our audit objectives.
+In this report, we assessed the Artemis program’s schedule and projected costs, and how the Agency’s
+acquisition and programmatic approaches facilitate its plans to land astronauts on the Moon. Our
+review included interviews with officials at NASA Headquarters, Johnson Space Center, Kennedy Space
+Center, Marshall Space Center, and SpaceX. We conducted a site visit at SpaceX’s headquarters in
+Hawthorne, California, and their Starbase in Boca Chica, Texas.
+To assess the Artemis program’s schedule and projected costs, we used a combination of document
+reviews, interviews, and numerous discussions with NASA officials and selected contractors. In addition,
+we visited SpaceX facilities in California and Texas to observe HLS development firsthand. Our schedule
+analysis included examining ESD manifests, integrated master schedules, schedule risk analyses, and
+program quarterly reviews. As for projected costs, we examined program budget submissions,
+presidential budget requests, appropriations, quarterly program data sheets, and operating plans. We
+also reviewed the 2020 Artemis Phase 1 Funding Requirements in NASA’s Lunar Exploration Program
+Overview—Appendix 5, and the following prime contracts: SLS stages, boosters, RS-25, and upper stage;
+Orion; and Gateway’s HALO and PPE. In addition, for actual expenditures, we used NASA’s financial
+system, our data analytics team, and program feedback to determine and analyze NASA’s obligations.
+For both schedule and costs, we compared current information against baseline commitments. We then
+followed up with program officials—both NASA and SpaceX—to confirm our analysis and the
+information we found. Our interviews on cost and schedule included officials from HEOMD, AES, ESD,
+and SpaceX, as well as multiple discussions with program and budget analysts to determine which Work
+Breakdown Structure codes—the accounting method used to count costs—were properly accounted for
+as Artemis costs.
+To determine how the Agency’s acquisition and programmatic approaches facilitate its plans to land
+astronauts on the Moon, we reviewed the September 2020 Artemis Plan, architecture briefings, and
+detailed Artemis project acquisition strategy documents that describe the different methods for how
+astronauts will travel to the lunar surface. We examined each of the three initial design contracts for
+the three HLS contractors (SpaceX, Blue Origin, and Dynetics), all contract modifications, and the source
+selection statements associated with the various contracts. Additionally, we reviewed the acquisition
+strategy and approved tailored programmatic approach as outlined in the HLS Acquisition Strategy
+Meeting and quarterly program briefings. We reviewed federal and NASA policies and procedures for
+types of contracts and program and project management requirements. We also reviewed documents
+from the HLS Continuation Review for SpaceX, which outlined the status of technical challenges,
+technology development, and the operational approach for SpaceX’s HLS. Further, we conducted
+interviews with officials from HEOMD, HEOMD SE&I, ESD, Office of the Chief Engineer, the HLS Program
+Manager, HLS Contracting Officer, and the Launch Services Program, as well as SpaceX.
+NASA Office of Inspector General IG-22-003 39
+Appendix A
+Assessment of Data Reliability
+We relied upon computer-generated data as part of performing this audit. We reviewed and analyzed
+NASA obligation and funding data for FYs 2012 through 2021 in NASA’s financial accounting system and
+used program budget estimates for FYs 2022 through 2025. The obligation and funding data were
+mainly derived from Artemis mission costs: Exploration Systems Development, Advanced Exploration
+Systems, Exploration Research and Development, Science, Space Technology, and Mission Support. We
+assessed the reliability of the financial data by (1) verifying the data with the NASA OIG’s Advanced Data
+Analytics Program and Artemis Dashboard Tracker, (2) reviewing data provided by NASA’s directorates
+and divisions, and (3) interviewing Agency officials knowledgeable about this data. We determined that
+the data was sufficiently reliable for the purposes of this report.
+Review of Internal Controls
+We assessed internal controls and compliance with laws and regulations necessary to satisfy the audit
+objectives. Specifically, we assessed the Artemis program’s schedule and projected costs, and how the
+Agency’s acquisition and programmatic approaches facilitate its plans to land astronauts on the Moon,
+which are identified and discussed previously in this report. However, because our review was limited
+to these internal control elements and underlying principles, it may not have disclosed all internal
+control deficiencies that may have existed at the time of this audit. Our recommendations, if
+implemented, will correct the identified control weaknesses.
+Prior Coverage
+During the last 5 years, the NASA Office of Inspector General and GAO have issued 21 reports of
+significant relevance to the subject of this report. Unrestricted reports can be accessed at
+https://oig.nasa.gov/audits/auditReports.html and https://www.gao.gov, respectively.
+NASA Office of Inspector General
+NASA's Development of Next-Generation Spacesuits (IG-21-025, August 10, 2021)
+Artemis Status Update (IG-21-018, April 19, 2021)
+NASA’s Efforts to Mitigate the Risks Posed by Orbital Debris (IG-21-011, January 27, 2021)
+NASA’s Challenges to Safely Return Humans to the Moon by 2024 (IG-21-007, December 1, 2020)
+NASA's Management of the Gateway Program for Artemis Missions (IG-21-004, November 10, 2020)
+NASA's Management of Its Acquisition Workforce (IG-21-002, October 27, 2020)
+NASA’s Management of the Orion Multi-Purpose Crew Vehicle Program (IG-20-018, July 16, 2020)
+NASA's Development of Ground and Flight Application Software for the Artemis Program (IG-20-014,
+March 19, 2020)
+Audit of NASA's Development of Its Mobile Launchers (IG-20-013, March 17, 2020)
+NASA's Management of Space Launch System Program Costs and Contracts (IG-20-012, March 10, 2020)
+NASA Office of Inspector General IG-22-003 40
+Appendix A
+NASA’s Management of Crew Transportation to the International Space Station (IG-20-005,
+November 14, 2019)
+2019 Report on NASA's Top Management and Performance Challenges (November 13, 2019)
+NASA's Management of the Space Launch System Stages Contract (IG-19-001, October 10, 2018)
+NASA’s Plans for Human Exploration Beyond Low Earth Orbit (IG-17-017, April 13, 2017)
+Government Accountability Office
+NASA Lunar Programs: Significant Work Remains, Underscoring Challenges to Achieving Moon Landing
+in 2024 (GAO-21-330, May 26, 2021)
+NASA: Assessments of Major Projects (GAO-21-306, May 20, 2021)
+NASA Human Space Exploration: Significant Investments in Future Capabilities Require Strengthened
+Management Oversight (GAO-21-105, December 15, 2020)
+NASA: Assessments of Major Projects (GAO-20-405, April 29, 2020)
+NASA Lunar Programs: Opportunities Exist to Strengthen Analyses and Plans for Moon Landing
+(GAO-20-68, December 19, 2019)
+NASA Human Space Exploration: Persistent Delays and Cost Growth Reinforce Concerns over
+Management of Programs (GAO-19-377, June 19, 2019)
+High-Risk Series: Substantial Efforts Needed to Achieve Greater Progress on High-Risk Areas
+(GAO-19-157SP, March 6, 2019)
+NASA Office of Inspector General IG-22-003 41
+Appendix B
+APPENDIX B: HLS PROGRAM’S TAILORED
+PROJECT MANAGEMENT APPROACH
+NASA is utilizing a tailored approach for the HLS Program to streamline typical program management
+processes similar to the Gateway Program. NASA policy for program and project management dictates
+certain requirements for oversight, life-cycle reviews, and other programmatic matters, while also
+providing the flexibility to adjust those requirements to fit the unique needs of a program or project.
+NASA has tailored requirements for several other programs, including the SLS, Orion, and Commercial
+Crew Programs. The HLS Program will undergo extensive tailoring—modeled after the Commercial Crew
+Program—that it believes will result in significant cost and schedule savings without sacrificing technical
+and programmatic insight (see Figure 10).
+Figure 10: HLS Program Tailoring Compared to NASA Standard
+Source: NASA OIG presentation of Agency data.
+Note: Acquisition Strategy Meeting (ASM), Formulation Authorization Document (FAD), Preliminary Design Review (PDR),
+Key Decision Point (KDP), Critical Design Review (CDR), Systems Integration Review (SIR), Program Integration Review (PIR),
+Authority to Proceed (ATP), Certification Baseline Review (CBR), Continuation Review (CR), Annual Synchronization Review
+(ASR).
+NASA Office of Inspector General IG-22-003 42
+Appendix B
+The tailoring approach will impact Program-level design reviews and KDPs, important governing
+documents, and programmatic analyses like an Agency Baseline Commitment (ABC) and Joint Cost and
+Schedule Confidence Level (JCL).
+74 NASA policy outlines various design reviews at the program level
+(e.g., System Definition Review, Critical Design Review, System Integration Review), which are typically
+followed by KDP-A, -B, -C, and -D. The HLS Program is tailoring these requirements and will instead
+negotiate design reviews with the contractor to facilitate efficiency and align with industry best
+practices. These reviews will include evaluations by independent technical and programmatic
+authorities. In lieu of four KDPs, the Program will hold a KDP-C about 8 months after contract award,
+with annual synchronization reviews thereafter. This is in addition to an Acquisition Strategy Council
+meeting in May 2019 that served the purpose of a KDP-A.
+NASA policy also requires programs to submit guiding documents like the Formulation Authorization
+Document and Program Plan to authorize transition to the following life-cycle stage and establish
+important programmatic baselines. The HLS Program captured content similar to the Formulation
+Authorization Document in meeting minutes from the May 2019 Acquisition Strategy Council meeting,
+while a final Program Plan is not expected until KDP-C is completed.
+For cost and schedule analysis requirements, single-project programs like HLS are required to submit an
+ABC and JCL at KDP-C. The HLS Program intends to submit an ABC that captures costs up to the initial
+lunar landing demonstration, as opposed to the full life cycle of the Program. With regard to the JCL,
+the Program will create a “lean” JCL or Schedule Risk Analysis using a milestone summary schedule,
+which the Program believes will provide the flexibility to both inform the ABC and provide regular and
+timely schedule risk updates. The contractor partner will also provide the Basis of Estimates to allow for
+continuing NASA insight into cost and schedule. The former NASA Associate Administrator approved
+these tailored requirements on June 24, 2019.
+74 An ABC establishes and documents an integrated set of project requirements, cost, schedule, technical content, and an
+agreed to JCL that forms the basis for NASA’s commitment to the Office of Management and Budget and Congress. A JCL
+analysis is used to inform management of the likelihood of a project’s programmatic success, establish cost and schedule
+baselines, determine the probability that cost will be equal to or less than the targeted cost, and schedule will be equal to or
+less than the targeted schedule date.
+NASA Office of Inspector General IG-22-003 43
+Appendix C
+APPENDIX C: ARTEMIS SYSTEM DESCRIPTIONS
+To achieve its Artemis ambitions, NASA requires multiple space flight systems to both explore the Moon
+prior to the astronauts’ arrival and deliver the astronauts to the lunar surface. The space flight systems
+that will be used for Artemis I through III are explored further in this appendix including the SLS, Orion,
+EGS, Gateway, and HLS. In addition, we describe spacesuits, the Volatiles Investigating Polar Exploration
+Rover (VIPER), and an example of a landing system for science investigations—the Masten Lunar Lander.
+Prior costs described in the systems updates are identified as obligated funds. Each system is also at
+various levels of development with its progress tracked according to its Technology Readiness Level
+(TRL), which begins at 1 and ends at 9. Figure 11 shows how the TRL number increases based upon the
+level of progress or milestone achieved.
+Figure 11: Technology Readiness Levels
+Source: NASA OIG presentation of Agency data.
+NASA Office of Inspector General IG-22-003 44
+Appendix C
+Space Launch System
+NASA’s SLS is a two-stage, heavy-lift rocket that will launch the Orion capsule into space.a To fulfill
+America’s future needs for deep space missions, the SLS will evolve into increasingly more powerful
+configurations. For the first three Artemis missions, NASA will use the Block 1 configuration. By
+Artemis IV, NASA will be using the Block 1B configuration with eventual evolution to the Block 2
+configuration by the ninth Artemis mission, each of those with increased lift capability.
+In 2011 and 2012, NASA contracted with three commercial companies to develop the SLS’s major
+elements—Boeing (for the launch system’s Core Stage and Upper Stage, known as the Interim Cryogenic
+Propulsion Stage), Aerojet Rocketdyne (Aerojet) (for RS-25 and RL-10 engines adapted to SLS
+requirements), and Northrop Grumman (for solid rocket boosters to help power the SLS). SLS has
+experienced cost growth of 43 percent for the Artemis I mission and 3 years of schedule delays from the
+initial target of November 2018 to November 2021.
+NASA Office of Inspector General IG-22-003 45
+Appendix C
+NASA Office of Inspector General IG-22-003 46
+Appendix C
+Orion Multi-Purpose Crew Vehicle
+Orion will serve as the exploration vehicle that will transport astronauts beyond low Earth orbit, sustain
+the crew during space travel, and provide safe reentry from deep space return velocities. The Orion
+vehicle—built by prime contractor Lockheed Martin—has four major components, including a Launch
+Abort System; Crew Module; Service Module, composed of the NASA Crew Module Adapter and
+European Service Module; and Spacecraft Adapter. Originally conceptualized in 2005 under the now
+defunct Constellation Program, Orion has evolved to meet the needs of NASA’s Moon and Mars
+missions. On December 5, 2014, the Orion first flew in space on a Delta IV rocket during the Exploration
+Flight Test–1; however, the test article did not include a functional service module or demonstrate an
+abort capability. The next flight planned is Artemis I, the first launch of the combined SLS/Orion system.
+This 22- to 25-day uncrewed mission, which was planned for November 2021, is over 3 years later than
+initially scheduled. Despite the slippage, Orion is proceeding with the production of crew capsules for
+later Artemis missions before the first mission is completed.
+NASA Office of Inspector General IG-22-003 47
+Appendix C
+NASA Office of Inspector General IG-22-003 48
+Appendix C
+Exploration Ground Systems
+The EGS Program is developing, modernizing, and upgrading the ground systems, software, and launch
+site infrastructure, and preparing the operations team to assemble, test, and launch the SLS and Orion
+Flight Systems and recover the Orion Crew Module. EGS is supporting the transformation of Kennedy
+from a historically government-only launch complex to a spaceport that can handle several different
+kinds of spacecraft and rockets—both government and commercial. The ground systems include the
+Launch Control Center, Vehicle Assembly Building, Mobile Launcher, Crawler-Transporter, and Launch
+Pad 39B, all of which are needed for the uncrewed Artemis I mission. In addition, a second Mobile
+Launcher is being built to accommodate the larger SLS Block 1B rocket.
+NASA Office of Inspector General IG-22-003 49
+Appendix C
+Gateway
+The Gateway is a lunar orbiting outpost that will function as a small space station and support NASA’s
+deep space exploration plans. The Gateway will not only act as a waystation for astronauts prior to
+embarking on missions to the lunar surface and beyond but will also provide opportunities for further
+scientific research and technology demonstration. While several elements are expected to be part of
+the Gateway once it is complete, the first two elements—the Power and Propulsion Element (PPE) and
+Habitation and Logistics Outpost (HALO)—will provide initial capabilities with the goal to support initial
+lunar landings.a
+In May 2019, NASA awarded a contract to Maxar Technologies (Maxar) to develop and build the PPE,
+which will provide 60-kilowatt power generation, solar electrical and chemical propulsion, and
+communications capabilities as the foundation of the Gateway. Following that, NASA awarded a
+contract to Northrop Grumman in July 2019 to design the HALO, which will provide the Gateway with
+initial living and working space and additional life support systems. Though originally planned to be
+launched separately, NASA announced in February 2020 that the PPE and HALO will be integrated and
+launched together in a co-manifested payload through a commercial launch service provider in
+November 2023. In February 2021, the Agency announced that the co-manifested PPE and HALO would
+be launched on SpaceX’s Falcon Heavy rocket no earlier than May 2024, though funding shortages have
+delayed the launch until November 2024.
+NASA Office of Inspector General IG-22-003 50
+Appendix C
+NASA Office of Inspector General IG-22-003 51
+Appendix C
+Human Landing System
+NASA’s HLS will be used to ferry astronauts from either the Orion or Gateway to the Moon’s surface.
+In April 2021, NASA selected SpaceX for a contract to demonstrate its HLS Starship on a crewed lunar
+mission in 2024. After NASA’s selection announcement, the two other HLS competitors that submitted
+proposals—Blue Origin and Dynetics—filed bid protests on that decision, which GAO denied on
+July 30, 2021, allowing NASA to continue executing its contract with SpaceX. All three competitors
+received initial design contracts, completing a Certification Baseline Review and Continuation Review
+evaluating the progress on each of those designs. Moving forward, SpaceX is planning to conduct a
+series of test flights in anticipation of the HLS demonstration mission, including an orbital test flight,
+in-space refueling test, and uncrewed landing of the HLS on the lunar surface. With SpaceX’s proposal,
+a fuel depot will fly to low Earth orbit prior to the HLS launch where it will be filled with propellant from
+multiple tanker vehicles. After the HLS launches, it will then receive propellant from the depot before
+continuing its journey to the lunar Near Rectilinear Halo Orbit where it will receive the crew.
+NASA Office of Inspector General IG-22-003 52
+Appendix C
+Spacesuits
+NASA has been developing Extravehicular Activity (EVA) technologies for space exploration missions
+since 2007, and originally planned to design, manufacture, and certify the Artemis III suits in-house.
+This included Exploration Extravehicular Mobility Unit (xEMU) spacesuits planned to be worn by
+astronauts for visits to the lunar surface during Artemis missions. The xEMU suits were designed to
+provide astronauts with critical life support and communications capabilities and protect them from the
+harsh lunar environment. These suits, along with Vehicle Interface and Flight Support Equipment and
+additional tools, comprised the three development areas of the Exploration Extravehicular Activity
+(xEVA) project within the Gateway Program. However, in April 2021, the Agency altered their
+acquisition approach for the suits, opting to instead utilize a commercial services approach to acquire
+EVA services for the ISS, Artemis, and other advanced programs. Similar to the commercial crew and
+cargo efforts, the approach will involve NASA paying for contractor-developed suits as opposed to
+building the suits in-house or purchasing the suits outright.
+NASA Office of Inspector General IG-22-003 53
+Appendix C
+NASA Office of Inspector General IG-22-003 54
+Appendix C
+Volatiles Investigating Polar Exploration Rover
+NASA’s VIPER will explore the extreme Moon environment in search of water ice and other potential
+resources. This mobile robot (or rover) is scheduled to land at the lunar South Pole region in late 2023
+on an approximately 100-day mission to provide critical information on the origin and distribution of
+water on the Moon and will steer future approaches to harvesting in-situ resources for future human
+space exploration. Ames Research Center is the lead Center for VIPER, leading project management,
+science, systems engineering, rover flight software, and real-time rover surface operations. Johnson
+Space Center is responsible for the design of the rover hardware, while Ames Research Center, Kennedy,
+and commercial partner Honeybee Robotics provide the four VIPER instruments. NASA awarded a
+contract under Commercial Lunar Payload Services (CLPS) to Astrobotic Technology (Astrobotic) to
+deliver VIPER to the lunar surface. Subsequently, Astrobotic awarded a contract to SpaceX to provide
+the launch service.
+NASA Office of Inspector General IG-22-003 55
+Appendix C
+Masten Space Systems Commercial Lunar Payload Services
+Task Order
+A key part of NASA’s Artemis lunar exploration, CLPS facilitates an innovative, service-based,
+competitive acquisition approach that enables rapid, affordable, and frequent access to the lunar
+surface via a growing market of American commercial providers. By 2019, NASA had contracts with
+14 companies that were eligible to bid on specific task orders for the delivery of science instruments and
+technology demonstrations. The NASA CLPS initiative plans for two lunar delivery task orders each year,
+and it selected Masten Space Systems for delivery of nine separately procured instruments, including
+MoonRanger—a small robotic rover that weighs less than 30 pounds—using Masten’s XL-1 Lander to
+deliver to the Moon’s South Pole in 2023. The lunar deliveries result from firm-fixed-price task orders
+competitively awarded under indefinite-delivery, indefinite-quantity contracts with a potential
+maximum value of $2.6 billion over a period of 10 years. NASA intends to continue issuing competitive
+task order solicitations for future payload deliveries from among the catalog of 14 CLPS vendors.
+NASA Office of Inspector General IG-22-003 56
+Appendix D
+APPENDIX D: ARTEMIS CONTRACTS
+The commercial partners supporting Artemis are integral to the success of the mission. Below is
+information on major contracts by Artemis element as of August 2021. Table 4 provides a summary,
+including scope of work, required deliverables, performance period, contract type, contract value, and
+obligated amount.
+Orion Multi-Purpose Crew Vehicle. The contractor responsible for building the Orion capsule is
+Lockheed Martin. The base contract, awarded in August 2006 under the now-defunct Constellation
+Program, was originally worth $3.9 billion. As of August 2021, the contract value had grown to
+$13.8 billion. NASA also awarded Lockheed Martin the follow-on production contract using a
+justification for other than full and open competition. The Orion Production and Operations Contract is
+currently worth $2.7 billion. Together these two contracts accounted for up to 77 percent of Orion’s
+obligated funding for FY 2021.
+Space Launch System. The value of the six major SLS element contracts is $20.4 billion. Boeing has
+the Stages contract and is currently negotiating the follow-on Stages Production and Evolution Contract,
+which was awarded sole source. Boeing is also working with United Launch Alliance on the Interim
+Cryogenic Upper Stage contract. Northrop Grumman is providing the SLS’s Solid Rocket Boosters.
+Aerojet is providing the RS-25 engines under two separate contracts—one for the adaptation of Shuttle-
+era engines (RS-25 Adaptation) and another for production of new RS-25 engines (RS-25 Restart). In
+FY 2021, these six contracts accounted for $1.7 billion of obligated funding, or 70 percent of the total
+SLS Program obligations.75
+Exploration Ground Systems. The contractor selected to design and build the second Mobile Launcher,
+which will support more powerful iterations of the SLS, is Bechtel. The cost-plus-award-fee, end-item
+contract is valued at $411 million. We previously reported on NASA incorporating lessons learned from
+the Mobile Launcher 1 development project into the contract for Mobile Launcher 2.76 One of those
+lessons was utilizing a single contract to both design and build the Mobile Launcher in order to remedy
+communication and integration issues that occurred with the first Mobile Launcher project. As of
+August 2021, this contract accounted for 13 percent of EGS’s obligated funding for FY 2021.
+Human Landing System. The total base period contract value awarded to Blue Origin, Dynetics, and
+SpaceX—the three contractors originally selected to compete for the HLS demonstration—was
+$859 million, with 100 percent of that value obligated to date. With the selection of SpaceX to further
+develop and demonstrate its lunar lander, SpaceX’s total HLS contract value increased significantly—
+from $139.6 million in the base period to $3 billion.
+Gateway. Contracts for the first two major elements of the Gateway—PPE and HALO—were awarded in
+2019 and have a combined value of $1.6 billion. These two elements comprise 45 percent of total
+funding spent in FY 2021 on all Gateway contracts. The $7 billion Gateway logistics services award
+includes multiple missions to and from the Gateway over a 15-year period and is available to other
+75 To learn more about the NASA OIG’s audit work of the SLS Program contracts, see IG-20-012.
+76 IG-20-013.
+NASA Office of Inspector General IG-22-003 57
+Appendix D
+commercial providers once selected. Currently SpaceX is the only provider selected and has been
+guaranteed two missions. Awardees will be paid by the mission.77
+Commercial Lunar Payload Services. CLPS contracts are indefinite-delivery, indefinite-quantity
+contracts with a cumulative maximum contract value of $2.6 billion through 2028. They are end-to-end
+delivery missions to the lunar surface. Included in Table 4 are three high-value CLPS missions: delivery
+of NASA’s VIPER by Astrobotic, delivery of the Polar Resources Ice Mining Experiment-1 by Intuitive
+Machines, and a science and technology payload mission by Masten Space Systems. The total contract
+value of these three missions is $358 million, 14 percent of the $2.6 billion available.
+Table 4: Summary of Major Artemis Contracts by System (as of August 2021)
+Performance
+Period
+Contract
+Value
+Obligated
+Amount
+Contractor Contract Deliverables Contract Typea
+Orion Multi-Purpose Crew Vehicle
+Design, develop, test, and
+evaluate the Orion
+spacecraft; test laboratory
+program; software
+verification; and sustain
+engineering and operations
+support
+Cost-plus-award-fee,
+cost-plus-incentive-fee,
+and IDIQ
+Lockheed
+Martin
+Orion
+Development
+9/6/06-
+3/31/23 $13.8Bb $13.6B
+Orion
+Production
+and
+Operations
+Contract
+Production of 6 additional
+Orion capsules in support of
+Artemis III and future
+missions
+Lockheed
+Martin
+6/5/19-
+9/30/30
+Sole source; IDIQ, cost-
+plus-incentive-fee $2.7B $623.3M
+Space Launch Systemc
+Design, build, test, and
+evaluate 2 Core Stages,
+1 Exploration Upper Stage,
+and test articles
+Sole source; cost-plus-
+award-fee, cost-plus-
+incentive-fee, IDIQ, and
+firm-fixed-price
+11/1/12-
+12/31/25
+Boeing Stages $9.2B $7.8B
+Produce 2 Core Stages and
+procure materials for 8
+additional Core Stages and
+8 Exploration Upper Stages
+Stages
+Production
+and Evolution
+10/16/19-
+11/15/21
+Sole source; under
+negotiation
+Boeing $1.9B $294.8M
+United
+Launch
+Alliance;
+Boeing
+Interim
+Cryogenic
+Propulsion
+Stage
+3 Interim Cryogenic
+Propulsion Stages,
+1 structural test article,
+and flight software
+Sole source; firm-fixed-
+price, cost-plus-award-
+fee, and IDIQ
+10/1/12-
+12/31/24 $954.4M $613.3M
+Produce 35 booster
+segments and upgrade the
+boosters for future flights
+by replacing outdated parts
+Sole source; cost-plus-
+award-fee, incentive-
+fee, fixed-fee
+Northrop
+Grumman
+12/16/11-
+12/31/23
+Boostersd $4.3B $4.0B
+77 To learn more about NASA OIG audit work of the Gateway Program contracts, see IG-21-004.
+NASA Office of Inspector General IG-22-003 58
+Appendix D
+Contractor Contract Deliverables Performance
+Period Contract Typea Contract
+Value
+Obligated
+Amount
+Adaptation of 16 Space
+Shuttle-era RS-25 engines
+and development of new
+engine controller units used
+for communicating with the
+vehicle
+Sole source; cost-plus-
+award-fee, cost-plus-
+incentive-fee, and
+IDIQ with fixed-fee
+RS-25
+Adaptation
+12/1/11-
+9/30/20
+Aerojet $572.7Me $572.7M
+Restart production and
+certification of 24 new
+RS-25 engines
+Sole source; cost-plus-
+award-fee and cost-
+plus-incentive-fee
+11/1/15-
+9/30/29
+Aerojet RS-25 Restart $3.5B $1.7B
+Exploration Ground Systems
+Cost-plus-award-fee,
+end item; provisions
+to convert to firm-
+fixed-price once
+design is 90%
+complete
+Design and construction of
+Mobile Launcher 2 with
+delivery by March 2023
+Mobile
+Launcher 2
+7/1/19-
+6/14/23
+Bechtel $411.1M $407.3M
+Human Landing System
+Firm-fixed-price,
+milestone payments,
+and IDIQ
+A Landing
+System
+Design and development of
+human landing system
+5/13/20-
+8/23/21
+Blue Origin $479.7M $479.7M
+Firm-fixed-price,
+milestone payments,
+and IDIQ
+B Landing
+System
+Design and development of
+human landing system
+5/13/20-
+8/23/21
+Dynetics $239.7M $239.7M
+Design, develop, test,
+evaluate, and demonstrate
+a human landing system
+Firm-fixed-price,
+milestone payments,
+and IDIQ
+C Landing
+System
+5/13/20-
+2/28/25
+SpaceX $3.0B $439.6M
+Gateway
+Design, develop, test,
+manufacture, and
+demonstrate the power and
+propulsion element
+Power and
+Propulsion
+Element
+5/23/19-
+12/31/27
+Firm-fixed-price with
+IDIQ portion
+Maxar $346.0M $315.0M
+Sole source; firm-
+fixed-price then cost-
+plus-incentive-fee
+through Preliminary
+Design Review; then
+firm-fixed-price
+Habitation
+and Logistics
+Outpost
+Design, develop, test, and
+manufacture the habitation
+module
+Northrop
+Grumman
+7/31/19-
+6/17/26 $1.3B $377.7M
+Delivery of cargo to and
+from Gateway to support
+crewed missions
+Logistics
+Services
+3/25/20-
+3/25/35
+Firm-fixed-price and
+IDIQ
+SpaceX $7.0B $56.4M
+NASA Office of Inspector General IG-22-003 59
+Contractor Contract Deliverables Performance
+Period Contract Typea Contract
+Value
+Obligated
+Amount
+Commercial Lunar Payload Services
+Commercial
+Lunar
+Payload
+Services—
+VIPER
+Delivery of VIPER to the
+lunar surface
+6/11/20-
+4/30/24
+Firm-fixed-price and
+IDIQ
+Astrobotic $230.8M $83.8M
+Commercial
+Lunar
+Payload
+Services—
+PRIME-1
+Delivery of PRIME-1 to the
+lunar surface by December
+2022
+Intuitive
+Machines
+10/16/20-
+1/31/23
+Firm-fixed-price and
+IDIQ $47.0M $25.9M
+Commercial
+Lunar
+Payload
+Services
+Deliver and operate
+9 payloads of science and
+technology instruments to
+the lunar surface in 2022f
+Masten
+Space
+Systems
+4/8/20-
+1/29/23
+Firm-fixed-price and
+IDIQ $79.9M $64.7M
+Totalg $50.1B $31.8B
+Appendix D
+Source: NASA OIG presentation of Agency information.
+Note: Indefinite-delivery, indefinite-quantity (IDIQ); billion (B); and million (M). This table is not a comprehensive list of all Artemis-related
+contracts.
+a Using a cost-plus approach, NASA approves all designs, manages all development and schedules, and owns the vehicle once delivered by the
+contractor. While the process gives NASA maximum control over the contractor’s design and final product, the majority of cost, schedule, and
+outcome risks are borne by the federal government. An IDIQ contract refers to NASA’s ability to issue an undefined number of task orders for
+services up to a specified amount of money. A firm-fixed-price contract provides a set price that does not change even if the contractor’s costs
+increase during the performance period.
+b The contract value for the Orion Development contract includes approximately $6.4 billion awarded under the Constellation Program which
+was canceled in 2010.
+c The contract value represents SLS deliverables and excludes money spent on the Constellation Program.
+d NASA originally awarded this contract to Alliant Technosystems, which merged in 2015 with Orbital Sciences Corporation to become Orbital
+ATK. In 2018, Orbital ATK was purchased by Northrop Grumman.
+e This does not include approximately $277 million of funds spent in FY 2012 on the J-2X Engine in support of the SLS Program.
+f The science and technology instruments for this CLPS mission are L-CIRiS, LETS, Heimdall, MoonRanger, Neutron Spectrometer System, MSolo,
+NIRVSS, LRA, and SAMPLR.
+g Amounts are rounded. Total figures may not equal the sum of the rounded amounts
+NASA Office of Inspector General IG-22-003 60
+Appendix E
+APPENDIX E: MANAGEMENT’S COMMENTS
+NASA Office of Inspector General IG-22-003 61
+National Aeronautics and
+Space Administration
+Mary W. Jackson NASA Headquarters
+Washington, DC 20546-0001
+November 9, 2021
+Reply to Attn ot: Exploration Systems Development Mission Directorate
+TO: Assistant Inspector General for Audits
+FROM: Associate Administrator for Exploration Systems Development Mission
+Directorate
+SUBJECT: Agency Response to OIG Draft Report, "NASA's Management of Artemis
+Missions" (A-20-008-01)
+The ational Aeronautics and Space Administration (NASA) appreciates the opportunity to
+review and comment on the Office of Inspector General (OIG) draft report entitled, "NASA's
+Management of Artemis Missions" (A-20-008-01), dated October 14, 2021.
+NASA recognizes that the integration of Artemis, the focus on the Moon to prepare for Mars,
+is of critical importance. The Agency proactively identified that a restructure of the Human
+Exploration and Operations Mission Directorate (HEOMD) organization was necessary to
+ensure effective management of these strategic efforts. To that end, a new Directorate has
+been formed, the Exploration Systems Development Mission Directorate (ESDMD), led by
+Jim Free, to land the first woman and the first person of color on the surface of the Moon,
+and provide leadership nationally and internationally as we take these steps forward into deep
+space. Under this new focused structure, the Agency will be positioned to address the
+integration and management challenges, to include schedule, cost, and performance,
+represented by the OIG's findings and recommendations. ASA looks forward to providing
+updates on our progress in implementing the recommendations as we continue to move
+forward with the initial Artemis missions as the next step in human space exploration.
+In the draft report, the OIG makes seven recommendations addressed to the Associate
+Administrator (AA) for ESDMD, one recommendation to the NASA Chief Engineer, and one
+recommendation to the NASA Deputy Administrator intended to increase accuracy,
+transparency, and safety of human spaceflight:
+Specifically, the OIG recommends the following to the NASA AA for ESDMD:
+Recommendation 1: Develop a realistic, risk-informed schedule that includes sufficient
+margin to better align Agency expectations with the development schedule.
+Management's Response: NASA concurs with this recommendation. ASA is
+developing an integrated master schedule (IMS) for the Artemis missions that will
+Appendix E
+NASA Office of Inspector General IG-22-003 62
+include development and production schedule details from each program included in the
+mission that will be sourced from contractor schedules and data. Schedule Risk
+Assessments (SRAs) will be performed against the mission schedules to identify margin
+and risk-informed dates for Artemis missions. The results of the schedule assessments
+and program updates will be periodically codified in official planning updates to the
+Artemis mission dates and program baselines. The evidence of the implementation of
+this recommendation will be shown with the initial baselined Artemis mission planning
+dates as well as the Artemis mission IMS, including contractor-informed schedules from
+the programs and projects.
+Estimated Completion Date: September 2022
+Recommendation 2: Expand upon the existing draft Artemis IMS to include Artemis
+programs outside AES and ESD to properly align dependencies across directorates.
+Management's Response: NASA partially concurs with this recommendation. NASA
+does concur that ESDMD/Advanced Exploration Systems (AES) will work with and
+include programs, projects, and other efforts across Mission Directorates in the Artemis
+mission IMS that have interdependencies with or constraints to defined Artemis mission
+content. NASA non-concurs with including all Artemis-related efforts that do not have
+an interdependency with a defined mission in an effort to preserve a logically linked and
+critical-path-driven master schedule that allows for analysis and clear distinction of
+content related to Artemis mission integration.
+Estimated Completion Date: September 2022
+Recommendation 3: Develop an Artemis-wide cost estimate, in accordance with best
+practices, that is updated on an annual basis.
+Management's Response: Non-concur. NASA is already following best practices and
+Agency policy in providing cost estimates and commitments for Agency-approved
+programs and projects. These cost estimates and commitments have a defined set of
+content over a specific period which is a best practice and meets the standards required
+for cost estimating. This policy also aligns with estimates and commitments at a similar
+level to which funding is provided from Congress, which increases transparency. NASA
+does provide annually the President's Budget Request that includes the budget
+requirements for Artemis content with a five-year forward projection. Agency-approved
+programs and projects also establish cost estimates at their defined life cycles marked by
+Agency Key Decision Points (KDPs) and provide baseline commitments to their
+development costs and operations costs with already established reporting requirements.
+As Artemis is the campaign of the Agency's efforts towards lunar exploration, and not an
+Agency-defined program with a specific set of content or period of time, a cost estimate
+for Artemis would not be in accordance with best practices or provide additional
+transparency into specific development, production, and operation costs for programs and
+projects.
+Estimated Completion Date: NIA
+2
+Appendix E
+NASA Office of Inspector General IG-22-003 63
+Recommendation 4: Maintain an accounting of per-mission costs to increase
+transparency and establish a benchmark against which NASA can assess the outcome of
+initiatives to increase the affordability ofESD systems.
+Management's Response: Non-concur. NASA remains committed to transparency in
+its cost reporting practices that accommodate the unique nature of space exploration
+development projects and mission planning. Consistent with previous responses, NASA
+continues to maintain that it does not account, track, or report costs on a per-mission
+basis, precisely because doing so would reduce contractual transparency to key
+stakeholders.
+NASA contracts are typically structured to align with the successful development and
+production of hardware that meets a specified series of requirements. Multi-mission
+programs are required to make decisions in the short term that may have longstanding
+implications for future missions, as ongoing development is required to enable necessary
+future capabilities. By benchmarking each contract against the development of a specific
+capability(ies ), NASA programs are able to practically and efficiently track success
+metrics ( e.g., Earned Value Management, award fee bases, etc.) regardless of changes to
+the mission manifest, requirements, launch availabilities, etc. Breaking out costs to align
+by mission may lead to inefficiencies in the tracking of these pivotal metrics and may
+disincentivize the flexibility needed for contractors to continue innovating through
+changes in budgeting and appropriations. As such, NASA categorically maintains that
+current accounting and reporting practices provide stakeholders the most transparency
+into forward mission planning and looks forward to continued engagement with the OIG
+to ensure these existing practices are carefully executed and reviewed.
+Estimated Completion Date: N/A
+Recommendation 5: Definitize outstanding Artemis-related contracts within 180 days
+in accordance with NASA FAR Supplement 1843.7005(a), Definitization (2018).
+Management's Response: NASA concurs with the intent of this recommendation. The
+Center procurement offices are actively negotiating with the contractors to definitize the
+undefinitized contract actions (UCAs) and Letter Contracts. In order to reduce future
+reliance on UCAs and Letter Contracts, ESDMD's Strategic Integration Management
+Division (SIMD) and Exploration Systems Development (ESD) Division are undertaking
+analysis of past procurement action lead times to form recommendations for when to
+initiate pre-award activities ahead of schedule requirements. ES DMD plans to apply any
+lessons learned from ESD's analysis across the Mission Directorate.
+Contract Procurement Statuses are reported as part of Directorate Program Management
+Council (DPMC) briefs on a quarterly basis. At the DPMC, prolonged definitization
+schedules will require explanation and resolution plans to be briefed to the Council.
+NASA's Office of Procurement (OP) also monitors the number and age of open UCAs
+and Letter Contracts in the Agency as part of the Baseline Performance Review. All
+UCAs over $100K must be approved by the Head of Contracting Authority. OP and
+3
+Appendix E
+NASA Office of Inspector General IG-22-003 64
+ESDMD have established a monthly tag up to discuss contract actions, including UCAs.
+NASA can only concur with the intent as NASA FAR Supplement 1843.7005(a) states:
+"The NASA goal is to definitize UCAs within 180 days from date of issuance." NASA
+does concur with working to meet the goal to definitize UCAs within 180 days from date
+of issuance and is actively ensuring processes are in place to meet that goal as described.
+Estimated Completion Date: April 2022
+Recommendation 6: Develop a realistic funding profile and schedule given the
+underfunding of HLS in FY 2021, the selection of one HLS award, and the desire to
+compete a sustainability contract for future lunar missions.
+Management's Response: NASA concurs with this recommendation. The Human
+Landing System (HLS) has made significant progress to advance the Program and the
+goal of landing on the Moon in response to the provided funding in FY 2021. This
+progress has included an adjustment to the funding profile as demonstrated in the FY
+2022 President's Budget Request, the selection of an awardee for the HLS for the initial
+lunar lander, awards for risk reduction and industry advancement of sustainable human
+lunar landers, and an acceleration of the procurement planning for lunar landing services.
+The HLS Program is proceeding to the Agency-level Key Decision Point-C (KDP-C) in
+2022, which will include probabilistic cost and schedule risk assessments. From this
+KDP-C, an Agency Baseline Commitment to the cost and schedule of the initial lunar
+lander will be made as reflected in the HLS Program Plan. Evidence of NASA's
+implementation of this recommendation will be shown with the HLS KDP-C and Lunar
+Exploration Transportation Services (LETS) Request for Proposal (RFP) release.
+Estimated Completion Date: August 2022
+Recommendation 7: Identify measurable cost reduction targets for its ESD contractors.
+Management's Response: NASA concurs with this recommendation. The Exploration
+Ground Systems (EGS), Space Launch System (SLS), and Orion progran1s are in the
+process of implementing a series of affordability initiatives that align with the ongoing
+transition from development to operations. These initiatives will take a multi-pronged
+approach at restructuring contracts (e.g., shifting contract vehicles, award fee policies,
+etc.), redefining NASA's insight/oversight model, and transitioning workforce as the
+programs transition from development to production and operations. The progran1s, in
+conjunction with their Centers and a Headquarters (HQ) Affordability Team, have
+focused on several key themes:
+• hnplementing alternative acquisition approaches. Examples: The Agency has
+released a Request for Information on possible new contracting structures
+(Exploration Production and Operations Contract) and is increasingly transitioning to
+Firm-fixed Price (FFP) structures ( e.g., the SLS Interim Cryogenic Propulsion Stage
+hardware, Upper Stage Engines, and follow-on SLS Booster contract are FFP; Orion
+is currently transitioning its Cost Plus Incentive Fee contract to FFP; EGS is
+exploring oppo11unities for contract consolidation).
+4
+Appendix E
+NASA Office of Inspector General IG-22-003 65
+• Instituting process improvements. Examples: NASA is creating a new
+insight/oversight governance model through the restructuring of program boards and
+organizational structures; ESD Safety & Mission Assurance is pursuing risk-based
+assessments to assign an appropriate level of oversight to Government Mandatory
+Inspection Point (GMIP) requirements.
+• Reducing production time cycles and facility footprints. Example: EGS has
+established facility reduction/divestment targets with Kennedy Space Center and is
+drafting facility cost-sharing plans, to be implemented in FY 2022.
+• Reviewing requirements and specifications for streamlining, implementing lessons
+learned, and measuring technical perforn1ance against costs. Examples: For the SLS
+Boosters team, learning curve improvements reduced non-conformances by 76
+percent; similarly, the SLS Core Stage team achieved a 52 percent reduction in
+discrepancies per 1,000 labor hours.
+• Planning for sustainable workforce transition and utilization as requirements change
+and the programs transition from development to operations. Examples: Reductions
+have already occurred on several SLS teams (13 percent reduction in labor hours
+forecast from Core Stage 1 to Core Stage 2; on the RS-25 engines team, 45 percent
+reduction in touch labor cost, 59 percent reduction in suppo11 labor cost, and 28
+percent reduction in nozzle and power head costs); EGS and Orion are tracking
+attrition and retirement rates expected upon completion of Artemis I and II missions;
+HQ workforce transition lead is performing ongoing analysis and planning in
+conjunction with the AES and Systems Engineering & Integration Divisions.
+Initial work towards these initiatives has already begun. Each program has identified an
+affordability lead to work with relevant stakeholders. Additionally, structured board
+processes to evaluate/implement cost reduction initiatives have been established. In the
+near term, the individuals will work to establish metrics and schedule goals for the
+approaches mentioned above.
+Estimated Completion Date: December 2022
+NASA's Chief Engineer, in coordination with the HLS Program Manager:
+Recommendation 8: Validate that the annual synchronization reviews meet the intent
+and expectations of the milestone reviews replaced by the tailored acquisition approach.
+Management's Response: NASA concurs with this recommendation. The HLS
+tailoring approach was reviewed and endorsed by the Office-of-the-Chief-Engineer-
+chaired Program and Project Management Board (June 19, 2019) as a recommendation to
+the Agency Program Management Council (APMC), then presented to and approved by
+the APMC (June 24, 2019). Further details associated with all HLS Reviews, including
+KDP-C and the Annual reviews, will be defined in the Review plans and Tenns of
+Reference. These products are developed by the HLS Program and reviewed by all
+Agency Technical Authorities. Technical Authorities' and, specifically, the HLS
+Program Chief Engineer's, involvement will ensure the tailored HLS approach meets the
+intent, expectations, and needs of milestone reviews for the HLS Program. NASA will
+5
+Appendix E
+NASA Office of Inspector General IG-22-003 66
+demonstrate the implementation of this recommendation with the life cycle review
+portion of the Program Plan, which will be updated and approved at KDP-C.
+Estimated Completion Date: August 2022
+The NASA Deputy Administrator, in coordination with Mission Directorate Associate
+Administrators:
+Recommendation 9: Codify the remaining governance structure such as the Federated
+Boards and Joint Directorate Program Management Council (DPMC).
+Management's Response: NASA partially concurs with this recommendation. NASA
+concurs with the recommendation to codify the Joint DPMCs. NASA recognizes the
+value of multi-Directorate DPMCs and has recently conducted a joint DPMC with
+HEOMD (ESDMD/Space Operations Mission Directorate), Space Technology Mission
+Directorate, and the Science Mission Directorate for requirements definition, and will
+work to document the roles and responsibilities of future Joint DPMCs.
+NASA non-concurs with the recommendation to codify the structure of the Federated
+Boards. The Federated Board was established to be a strategic coordination forum and
+not a decisional governance body and is currently operating in that manner. Agency
+governance structure follows Agency policy documentation which establishes decisional
+meetings in the form of Control Boards and Councils of which the Federated Board is not
+a part. Additionally, the Federated Board is being reevaluated in the context of the new
+leadership personnel that have joined the Agency and the reorganization ofHEOMD into
+two new Mission Directorates.
+Estimated Completion Date: February 2022
+We have reviewed the draft report for information that should not be publicly released. As a
+result of this review, we have not identified information that should not be publicly released.
+Once again, thank you for the opportunity to review and comment on the subject draft report.
+If you have any questions or require additional info1mation regarding this response, please
+contact Kelly O'Rourke on (202) 358-1635.
+James Free Ralph Roe, Jr.
+6
+Appendix F
+APPENDIX F: REPORT DISTRIBUTION
+National Aeronautics and Space Administration
+Administrator
+Deputy Administrator
+Associate Administrator
+Chief of Staff
+Associate Administrator for Space Operations Mission Directorate
+Associate Administrator for Exploration Systems Development Mission Directorate
+Associate Administrator for Science Mission Directorate
+Associate Administrator for Space Technology Mission Directorate
+Assistant Administrator for Procurement
+Deputy Associate Administrator for Advanced Exploration Systems
+Deputy Associate Administrator for Exploration Systems Development
+Director, Glenn Research Center
+Director, Johnson Space Center
+Director, Kennedy Space Center
+Director, Marshall Space Flight Center
+Gateway Program Manager
+Human Landing System Program Manager
+Non-NASA Organizations and Individuals
+Office of Management and Budget
+Deputy Associate Director, Climate, Energy, Environment and Science Division
+Government Accountability Office
+Director, Contracting and National Security Acquisitions
+Congressional Committees and Subcommittees, Chairman and Ranking
+Member
+Senate Committee on Appropriations
+Subcommittee on Commerce, Justice, Science, and Related Agencies
+Senate Committee on Commerce, Science, and Transportation
+Subcommittee on Aviation and Space
+Senate Committee on Homeland Security and Governmental Affairs
+House Committee on Appropriations
+Subcommittee on Commerce, Justice, Science, and Related Agencies
+House Committee on Oversight and Reform
+Subcommittee on Government Operations
+House Committee on Science, Space, and Technology
+Subcommittee on Investigations and Oversight
+Subcommittee on Space and Aeronautics
+(Assignment No. A-20-008-01)
